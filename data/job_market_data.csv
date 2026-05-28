@@ -1,0 +1,1001 @@
+Job Title,Company,City,Experience Level,Industry,Skills Required,Remote,Job Postings Count,Salary (LPA)
+Senior Data Analyst,Deloitte,Delhi,Mid (3-5 yrs),IT Services,"Python, JIRA, Communication, Tableau, Power BI",Hybrid,17,14.9
+Data Analyst,MakeMyTrip,Hyderabad,Senior (5+ yrs),EdTech,"Python, Communication, Spark",Hybrid,3,16.6
+Data Scientist,Deloitte,Bangalore,Senior (5+ yrs),Logistics,"JIRA, Excel, NumPy, Machine Learning, ETL, Power BI, Google Analytics",Yes,8,30.5
+Business Analyst,Reliance Jio,Delhi,Fresher (0-1 yr),Retail,"Tableau, R, Communication, Statistics, Pandas, Power BI, SQL",No,4,6.3
+Business Analyst,Reliance Jio,Kolkata,Junior (1-3 yrs),Retail,"Communication, SQL, JIRA, AWS",Yes,20,9.6
+Junior Data Analyst,Razorpay,Delhi,Junior (1-3 yrs),Banking & Finance,"Excel, NumPy, Storytelling, Pandas, Power BI, Azure, ETL",Yes,5,8.8
+Senior Data Analyst,HDFC Bank,Hyderabad,Senior (5+ yrs),EdTech,"Azure, Data Visualization, ETL, Tableau, Statistics, SQL, Google Analytics",Yes,17,22.4
+Operations Analyst,Tech Mahindra,Gurgaon,Junior (1-3 yrs),Logistics,"Excel, Machine Learning, Data Visualization, Azure, AWS, R, NumPy",Yes,22,9.1
+Senior Data Analyst,Paytm,Gurgaon,Junior (1-3 yrs),EdTech,"Communication, Tableau, ETL, Data Visualization, Hadoop",No,45,6.3
+Product Analyst,Axis Bank,Hyderabad,Mid (3-5 yrs),EdTech,"Python, Data Visualization, Statistics, JIRA",No,40,15.8
+Marketing Analyst,HDFC Bank,Hyderabad,Mid (3-5 yrs),Banking & Finance,"Pandas, ETL, Tableau, Data Visualization, Azure, Statistics",Yes,25,10.9
+Data Analyst,Flipkart,Mumbai,Mid (3-5 yrs),Banking & Finance,"ETL, NumPy, Azure, Power BI, R, Data Visualization",Hybrid,18,9.2
+Data Analyst,Amazon India,Gurgaon,Senior (5+ yrs),Logistics,"Excel, Pandas, Tableau, Machine Learning, Communication, ETL, Data Visualization",No,45,29.8
+Senior Data Analyst,Axis Bank,Bangalore,Junior (1-3 yrs),IT Services,"Excel, Python, Google Analytics",Yes,11,8.1
+Business Analyst,Nykaa,Pune,Fresher (0-1 yr),Healthcare,"Communication, Storytelling, Spark",No,9,6.0
+Business Analyst,Axis Bank,Chennai,Junior (1-3 yrs),IT Services,"Machine Learning, SQL, JIRA, Pandas, Azure, Data Visualization, Spark",Yes,38,8.9
+Operations Analyst,Swiggy,Bangalore,Senior (5+ yrs),Banking & Finance,"ETL, Spark, Statistics, NumPy",Yes,30,33.6
+Product Analyst,Paytm,Chennai,Mid (3-5 yrs),Banking & Finance,"AWS, Google Analytics, Communication, Excel",Hybrid,8,15.8
+Data Analyst,Amazon India,Bangalore,Senior (5+ yrs),Logistics,"ETL, Google Analytics, Python, Statistics, R, Spark",Yes,9,31.3
+Operations Analyst,Cognizant,Delhi,Mid (3-5 yrs),Banking & Finance,"Tableau, AWS, R, JIRA, Storytelling, ETL, Communication",Yes,21,14.0
+Business Analyst,PhonePe,Pune,Senior (5+ yrs),Retail,"ETL, SQL, Statistics, Azure, JIRA, Communication",No,10,34.1
+Operations Analyst,IBM India,Kolkata,Fresher (0-1 yr),Banking & Finance,"ETL, Statistics, SQL, Machine Learning, Storytelling",Hybrid,49,6.3
+Marketing Analyst,Reliance Jio,Noida,Mid (3-5 yrs),Banking & Finance,"Azure, AWS, SQL, JIRA, Data Visualization, Google Analytics",No,38,11.6
+Business Analyst,Swiggy,Kolkata,Mid (3-5 yrs),Logistics,"Pandas, Storytelling, JIRA, R, Spark, Data Visualization, Machine Learning",Hybrid,27,17.9
+Financial Analyst,IBM India,Gurgaon,Junior (1-3 yrs),Logistics,"Communication, Excel, Google Analytics, Pandas, Spark",Yes,41,7.7
+Product Analyst,Nykaa,Pune,Senior (5+ yrs),Logistics,"Google Analytics, Spark, ETL, JIRA",Hybrid,29,24.1
+Data Scientist,Zomato,Bangalore,Junior (1-3 yrs),Banking & Finance,"Azure, Python, Google Analytics, Tableau, AWS, Excel",No,43,8.6
+Data Analyst,Infosys,Chennai,Senior (5+ yrs),E-Commerce,"Excel, Google Analytics, Pandas, Machine Learning",Yes,8,30.6
+Junior Data Analyst,Amazon India,Pune,Fresher (0-1 yr),E-Commerce,"R, Storytelling, ETL, Power BI",Hybrid,34,3.9
+Marketing Analyst,MakeMyTrip,Delhi,Junior (1-3 yrs),EdTech,"Hadoop, Data Visualization, Power BI, Azure",Hybrid,34,9.8
+BI Analyst,HDFC Bank,Bangalore,Mid (3-5 yrs),Retail,"Azure, Machine Learning, R, Hadoop, Python, Power BI",No,16,13.2
+Data Scientist,PhonePe,Delhi,Fresher (0-1 yr),E-Commerce,"Tableau, Communication, R",Hybrid,37,6.5
+Junior Data Analyst,Swiggy,Pune,Senior (5+ yrs),IT Services,"Google Analytics, SQL, Tableau, Communication",No,31,20.5
+Business Analyst,Swiggy,Mumbai,Mid (3-5 yrs),Retail,"Pandas, R, Google Analytics, Spark",No,43,17.2
+BI Analyst,Razorpay,Delhi,Senior (5+ yrs),Retail,"Communication, Python, NumPy, Excel, Machine Learning, Statistics, JIRA",Yes,32,21.3
+Senior Data Analyst,Ola,Noida,Mid (3-5 yrs),Retail,"Azure, R, Statistics, Hadoop, Tableau, Spark",No,18,15.1
+Senior Data Analyst,Tech Mahindra,Noida,Senior (5+ yrs),Retail,"R, Google Analytics, Pandas, Storytelling, Data Visualization, AWS, Statistics",No,21,21.2
+Marketing Analyst,HDFC Bank,Gurgaon,Mid (3-5 yrs),EdTech,"Communication, Excel, Statistics, Spark, Google Analytics, Storytelling, SQL",Hybrid,50,18.0
+Senior Data Analyst,Infosys,Noida,Senior (5+ yrs),Healthcare,"Machine Learning, Google Analytics, Communication",No,47,30.7
+BI Analyst,Tech Mahindra,Delhi,Junior (1-3 yrs),Logistics,"Tableau, Power BI, R, Azure, SQL, AWS",No,31,6.5
+BI Analyst,ICICI Bank,Hyderabad,Mid (3-5 yrs),Banking & Finance,"Google Analytics, Power BI, Excel, Azure, Tableau, AWS, NumPy",Hybrid,15,14.1
+Product Analyst,Reliance Jio,Gurgaon,Mid (3-5 yrs),Logistics,"Python, Hadoop, Google Analytics, Communication, ETL, JIRA, Storytelling",Yes,6,9.3
+Data Scientist,Amazon India,Gurgaon,Junior (1-3 yrs),E-Commerce,"Hadoop, Statistics, Azure, Spark, ETL, NumPy, Google Analytics",Yes,17,6.4
+Data Analyst,HCL Technologies,Delhi,Senior (5+ yrs),Logistics,"Power BI, Hadoop, Tableau, Pandas, Azure, Spark, Storytelling",Yes,50,21.1
+Financial Analyst,Paytm,Kolkata,Mid (3-5 yrs),IT Services,"NumPy, JIRA, Hadoop",Hybrid,19,11.3
+Operations Analyst,HCL Technologies,Pune,Junior (1-3 yrs),Logistics,"Machine Learning, Python, Communication, Google Analytics, Power BI",Yes,46,8.3
+Senior Data Analyst,ICICI Bank,Mumbai,Senior (5+ yrs),Healthcare,"Python, Spark, Machine Learning, Data Visualization, Hadoop, R, SQL",No,6,30.7
+Marketing Analyst,Paytm,Noida,Mid (3-5 yrs),Banking & Finance,"Hadoop, Communication, Pandas, JIRA",Yes,23,9.1
+Senior Data Analyst,TCS,Mumbai,Mid (3-5 yrs),Banking & Finance,"Hadoop, Communication, ETL, Pandas, Spark, Azure, Power BI",No,36,11.8
+Operations Analyst,MakeMyTrip,Noida,Senior (5+ yrs),Healthcare,"JIRA, Storytelling, Azure, R, ETL, Pandas",No,16,28.6
+Data Scientist,Tech Mahindra,Ahmedabad,Junior (1-3 yrs),Healthcare,"Azure, Pandas, NumPy, ETL, Spark, Google Analytics, Excel",Hybrid,43,9.2
+Product Analyst,Zomato,Hyderabad,Mid (3-5 yrs),Healthcare,"Statistics, AWS, R",No,42,16.6
+BI Analyst,Ola,Kolkata,Senior (5+ yrs),Logistics,"Machine Learning, Google Analytics, Spark",Yes,48,24.4
+Product Analyst,Tech Mahindra,Pune,Mid (3-5 yrs),IT Services,"JIRA, SQL, R, Spark, Python",Yes,14,9.2
+Business Analyst,Wipro,Delhi,Senior (5+ yrs),EdTech,"Tableau, Azure, Hadoop",Hybrid,45,16.2
+Senior Data Analyst,HDFC Bank,Mumbai,Mid (3-5 yrs),Logistics,"Excel, Pandas, Statistics",No,5,9.3
+Data Analyst,Capgemini,Mumbai,Fresher (0-1 yr),EdTech,"Excel, SQL, Spark, JIRA, NumPy",Hybrid,5,4.3
+Business Analyst,Amazon India,Delhi,Junior (1-3 yrs),Retail,"SQL, R, Azure, AWS, Python, Power BI, Hadoop",No,32,8.2
+Data Scientist,Byju's,Pune,Junior (1-3 yrs),E-Commerce,"NumPy, Machine Learning, SQL, Google Analytics, Statistics, Storytelling, Excel",Yes,4,7.8
+Senior Data Analyst,PhonePe,Pune,Fresher (0-1 yr),Banking & Finance,"ETL, Statistics, Python",Yes,14,4.4
+Business Analyst,Swiggy,Gurgaon,Senior (5+ yrs),Logistics,"Excel, Pandas, Spark, ETL",No,1,27.0
+Senior Data Analyst,Ola,Ahmedabad,Junior (1-3 yrs),Logistics,"Spark, Communication, Machine Learning, Google Analytics, Python, ETL",Yes,43,5.4
+Marketing Analyst,Wipro,Noida,Senior (5+ yrs),E-Commerce,"Excel, JIRA, NumPy",Yes,14,33.0
+Data Scientist,Amazon India,Hyderabad,Mid (3-5 yrs),Logistics,"Communication, ETL, Storytelling, Pandas, Statistics, NumPy, Power BI",No,30,14.0
+Financial Analyst,Razorpay,Gurgaon,Fresher (0-1 yr),EdTech,"Spark, Communication, Python, Pandas, R, Machine Learning",No,25,6.3
+BI Analyst,Axis Bank,Delhi,Senior (5+ yrs),Logistics,"Power BI, JIRA, Excel, Google Analytics, NumPy, R, SQL",No,13,24.4
+Junior Data Analyst,Swiggy,Gurgaon,Senior (5+ yrs),Retail,"Pandas, JIRA, Storytelling, AWS, Spark, NumPy, Statistics",No,32,20.9
+BI Analyst,Amazon India,Bangalore,Junior (1-3 yrs),Healthcare,"Data Visualization, AWS, Communication, Python",No,7,8.9
+BI Analyst,Ola,Delhi,Mid (3-5 yrs),Logistics,"Power BI, Pandas, Excel, Spark, Statistics, Data Visualization",No,22,11.3
+Business Analyst,PhonePe,Ahmedabad,Junior (1-3 yrs),Banking & Finance,"Data Visualization, Hadoop, ETL, Google Analytics",Hybrid,14,7.5
+Data Scientist,Nykaa,Noida,Mid (3-5 yrs),EdTech,"Python, Pandas, Statistics, NumPy, Excel, Machine Learning, Data Visualization",No,38,11.0
+Senior Data Analyst,HDFC Bank,Pune,Junior (1-3 yrs),Banking & Finance,"Excel, JIRA, R, Azure, Data Visualization",Hybrid,49,5.9
+Product Analyst,Axis Bank,Bangalore,Senior (5+ yrs),Retail,"Machine Learning, Communication, Pandas, R, Storytelling",Hybrid,34,32.6
+Junior Data Analyst,Infosys,Mumbai,Senior (5+ yrs),E-Commerce,"Machine Learning, Statistics, Communication, Pandas, Storytelling, Power BI",No,33,28.5
+Operations Analyst,Byju's,Noida,Fresher (0-1 yr),Retail,"Statistics, ETL, Tableau, Power BI",Yes,21,3.8
+Business Analyst,Wipro,Delhi,Senior (5+ yrs),Logistics,"Excel, Azure, Python",Hybrid,49,28.4
+Junior Data Analyst,IBM India,Kolkata,Senior (5+ yrs),EdTech,"SQL, Azure, ETL, Data Visualization, Communication, AWS, NumPy",Yes,20,19.5
+Financial Analyst,Ola,Hyderabad,Senior (5+ yrs),E-Commerce,"Azure, R, Google Analytics, Pandas, Spark",No,46,25.6
+Marketing Analyst,Razorpay,Bangalore,Senior (5+ yrs),Banking & Finance,"Communication, Tableau, SQL, Google Analytics",No,30,24.4
+Data Scientist,Deloitte,Hyderabad,Fresher (0-1 yr),IT Services,"Azure, JIRA, SQL, Google Analytics, ETL, Machine Learning",Hybrid,42,4.1
+Operations Analyst,IBM India,Ahmedabad,Mid (3-5 yrs),Healthcare,"AWS, Power BI, Google Analytics, Storytelling",No,10,14.0
+Business Analyst,MakeMyTrip,Gurgaon,Fresher (0-1 yr),E-Commerce,"Python, Storytelling, Machine Learning, Spark, Power BI",Hybrid,33,3.8
+BI Analyst,Wipro,Bangalore,Fresher (0-1 yr),Logistics,"ETL, Pandas, R, Communication, Statistics",Hybrid,7,6.3
+Data Analyst,Zomato,Hyderabad,Junior (1-3 yrs),Banking & Finance,"Azure, Data Visualization, ETL, R, Storytelling",No,9,10.0
+Business Analyst,HCL Technologies,Mumbai,Mid (3-5 yrs),Logistics,"Machine Learning, Hadoop, ETL, JIRA, Spark, Tableau",Hybrid,15,17.8
+Data Analyst,Nykaa,Chennai,Junior (1-3 yrs),Retail,"R, Communication, Tableau, Statistics, Power BI, ETL",Hybrid,24,5.1
+BI Analyst,Ola,Delhi,Fresher (0-1 yr),EdTech,"Statistics, JIRA, Hadoop, Spark, Machine Learning",Yes,25,6.0
+Marketing Analyst,PhonePe,Delhi,Senior (5+ yrs),Retail,"Tableau, Azure, Python, R",No,29,32.1
+Data Scientist,HCL Technologies,Noida,Mid (3-5 yrs),E-Commerce,"Azure, Tableau, Google Analytics, Data Visualization, Storytelling, Communication",Yes,40,13.9
+Senior Data Analyst,Paytm,Ahmedabad,Senior (5+ yrs),Logistics,"JIRA, Communication, SQL, Spark, Power BI",Hybrid,33,16.8
+Business Analyst,Accenture,Bangalore,Fresher (0-1 yr),Banking & Finance,"SQL, Machine Learning, Pandas, Azure",Hybrid,13,3.8
+Product Analyst,PhonePe,Ahmedabad,Fresher (0-1 yr),Logistics,"AWS, Data Visualization, Pandas",No,50,3.4
+BI Analyst,Deloitte,Hyderabad,Fresher (0-1 yr),IT Services,"ETL, JIRA, Communication, Pandas, Storytelling",Hybrid,26,4.8
+Business Analyst,TCS,Gurgaon,Mid (3-5 yrs),E-Commerce,"Hadoop, Power BI, ETL",Hybrid,13,10.0
+Financial Analyst,Infosys,Delhi,Junior (1-3 yrs),Banking & Finance,"Machine Learning, Communication, JIRA, R, NumPy, Google Analytics, AWS",Hybrid,5,5.4
+Marketing Analyst,Amazon India,Delhi,Junior (1-3 yrs),E-Commerce,"Azure, AWS, Excel, Spark, NumPy, Statistics, Data Visualization",Hybrid,18,6.0
+Financial Analyst,Infosys,Gurgaon,Senior (5+ yrs),Logistics,"R, Data Visualization, Hadoop, Spark",Yes,28,26.8
+Junior Data Analyst,Deloitte,Mumbai,Mid (3-5 yrs),Retail,"Excel, R, Data Visualization",Hybrid,11,16.5
+Data Scientist,Flipkart,Ahmedabad,Senior (5+ yrs),Banking & Finance,"Data Visualization, Storytelling, NumPy, Pandas",Yes,44,28.9
+Junior Data Analyst,Flipkart,Hyderabad,Senior (5+ yrs),Healthcare,"Spark, Pandas, AWS, ETL, JIRA, Machine Learning, Excel",Yes,20,17.4
+Business Analyst,Zomato,Kolkata,Junior (1-3 yrs),Retail,"Python, Tableau, Statistics, Pandas",No,37,7.1
+Operations Analyst,Tech Mahindra,Delhi,Mid (3-5 yrs),Banking & Finance,"Machine Learning, R, Spark",Yes,42,11.5
+Operations Analyst,IBM India,Noida,Fresher (0-1 yr),Banking & Finance,"Power BI, Excel, Azure",Yes,7,3.1
+Data Scientist,ICICI Bank,Delhi,Senior (5+ yrs),Banking & Finance,"SQL, Python, Spark, Google Analytics, Excel, Storytelling, Tableau",Yes,10,27.5
+Product Analyst,Zomato,Pune,Fresher (0-1 yr),EdTech,"Tableau, Excel, Spark, NumPy, Statistics, Power BI, ETL",No,30,4.3
+Marketing Analyst,Reliance Jio,Chennai,Mid (3-5 yrs),Banking & Finance,"AWS, Tableau, Communication, Google Analytics, R",Hybrid,7,17.8
+Product Analyst,Razorpay,Mumbai,Senior (5+ yrs),Healthcare,"SQL, ETL, Data Visualization",No,48,33.1
+Marketing Analyst,Accenture,Bangalore,Fresher (0-1 yr),Retail,"AWS, JIRA, Pandas, Storytelling, Tableau, ETL",Yes,8,4.3
+BI Analyst,Accenture,Hyderabad,Fresher (0-1 yr),IT Services,"R, Communication, AWS, Hadoop, NumPy, JIRA, Storytelling",Yes,16,6.3
+Business Analyst,Accenture,Gurgaon,Junior (1-3 yrs),Healthcare,"JIRA, Statistics, Excel, AWS, NumPy, R",Yes,2,6.5
+Junior Data Analyst,Wipro,Kolkata,Mid (3-5 yrs),IT Services,"Pandas, Tableau, NumPy, Python, Google Analytics, Storytelling",No,30,9.3
+Operations Analyst,Byju's,Noida,Mid (3-5 yrs),Retail,"ETL, NumPy, Azure, Python",No,12,12.3
+Financial Analyst,Swiggy,Kolkata,Mid (3-5 yrs),Logistics,"Azure, NumPy, Python, Hadoop, Communication, Storytelling",Yes,18,11.6
+Senior Data Analyst,Byju's,Mumbai,Senior (5+ yrs),EdTech,"Python, JIRA, ETL, Machine Learning",No,2,18.9
+Data Analyst,Razorpay,Pune,Junior (1-3 yrs),EdTech,"JIRA, Hadoop, Spark, Statistics, R, ETL",No,31,8.0
+Senior Data Analyst,IBM India,Pune,Senior (5+ yrs),EdTech,"Spark, Statistics, Pandas, Excel, Hadoop, Data Visualization",Yes,43,18.0
+Junior Data Analyst,HDFC Bank,Gurgaon,Mid (3-5 yrs),IT Services,"Google Analytics, Pandas, NumPy, Communication",Hybrid,34,10.9
+Junior Data Analyst,Reliance Jio,Chennai,Senior (5+ yrs),Healthcare,"Machine Learning, Excel, R, Tableau, NumPy, SQL",No,29,21.9
+Marketing Analyst,Tech Mahindra,Ahmedabad,Fresher (0-1 yr),E-Commerce,"Storytelling, AWS, Pandas, Azure, Machine Learning, R",Yes,23,5.5
+Product Analyst,IBM India,Pune,Senior (5+ yrs),EdTech,"Tableau, SQL, JIRA",Yes,17,30.1
+Senior Data Analyst,Paytm,Gurgaon,Senior (5+ yrs),IT Services,"R, Power BI, NumPy",Yes,8,30.9
+Marketing Analyst,Ola,Chennai,Mid (3-5 yrs),Retail,"Tableau, AWS, Python, Statistics, Excel",Yes,36,15.4
+Marketing Analyst,Capgemini,Mumbai,Fresher (0-1 yr),Logistics,"Python, Azure, Machine Learning, Data Visualization",Hybrid,6,6.3
+Product Analyst,Paytm,Hyderabad,Mid (3-5 yrs),Healthcare,"NumPy, Azure, ETL, AWS, SQL, R",Yes,23,12.4
+Financial Analyst,Capgemini,Mumbai,Fresher (0-1 yr),EdTech,"Tableau, SQL, Pandas",Yes,28,5.0
+Operations Analyst,Razorpay,Gurgaon,Fresher (0-1 yr),Banking & Finance,"Excel, JIRA, Azure, R, Machine Learning, AWS",Hybrid,14,5.3
+Data Scientist,TCS,Hyderabad,Fresher (0-1 yr),Healthcare,"Spark, Python, Power BI, Statistics, Storytelling",Hybrid,10,3.5
+Operations Analyst,Paytm,Gurgaon,Mid (3-5 yrs),IT Services,"Statistics, SQL, Machine Learning, AWS, Power BI, Pandas",Yes,26,15.9
+Data Analyst,Deloitte,Mumbai,Fresher (0-1 yr),Retail,"Azure, Spark, NumPy, Data Visualization",No,33,5.3
+Senior Data Analyst,Razorpay,Delhi,Junior (1-3 yrs),Retail,"SQL, JIRA, Google Analytics, Power BI",Hybrid,28,9.8
+Operations Analyst,Axis Bank,Delhi,Junior (1-3 yrs),E-Commerce,"Azure, NumPy, Machine Learning, ETL, SQL",Yes,33,9.8
+Data Scientist,Accenture,Mumbai,Junior (1-3 yrs),E-Commerce,"Power BI, Statistics, Hadoop, Data Visualization",Hybrid,22,10.0
+BI Analyst,Wipro,Kolkata,Junior (1-3 yrs),E-Commerce,"R, Pandas, Power BI",No,4,7.8
+Senior Data Analyst,Paytm,Kolkata,Mid (3-5 yrs),Banking & Finance,"Statistics, Python, SQL, Azure, Tableau, R",No,29,18.0
+Data Scientist,Flipkart,Pune,Senior (5+ yrs),Healthcare,"Statistics, R, Azure",Yes,18,28.0
+Marketing Analyst,Reliance Jio,Pune,Senior (5+ yrs),EdTech,"Storytelling, Data Visualization, SQL",Hybrid,24,29.9
+Junior Data Analyst,Deloitte,Hyderabad,Junior (1-3 yrs),Healthcare,"ETL, Tableau, JIRA",Yes,7,7.7
+Financial Analyst,Ola,Hyderabad,Senior (5+ yrs),E-Commerce,"Tableau, Azure, Statistics",Hybrid,4,18.3
+Data Analyst,Zomato,Delhi,Junior (1-3 yrs),Banking & Finance,"JIRA, ETL, AWS, Machine Learning, Python",Hybrid,42,9.4
+Data Scientist,PhonePe,Kolkata,Junior (1-3 yrs),Retail,"ETL, Tableau, Pandas, SQL, Azure, Storytelling",Yes,25,9.0
+Operations Analyst,Capgemini,Chennai,Senior (5+ yrs),Logistics,"JIRA, NumPy, Storytelling, Azure, Machine Learning, Communication",No,47,27.5
+Junior Data Analyst,Paytm,Mumbai,Senior (5+ yrs),E-Commerce,"JIRA, ETL, Data Visualization, AWS",Hybrid,28,28.5
+Operations Analyst,Deloitte,Chennai,Fresher (0-1 yr),Retail,"Storytelling, JIRA, R, Excel, Tableau",Yes,13,4.8
+Senior Data Analyst,Cognizant,Hyderabad,Junior (1-3 yrs),IT Services,"NumPy, Pandas, JIRA, ETL, AWS, Python",Yes,19,6.6
+Data Scientist,Swiggy,Chennai,Senior (5+ yrs),Healthcare,"Spark, R, Python, ETL, Statistics, Communication, Google Analytics",Yes,13,19.7
+Operations Analyst,HDFC Bank,Gurgaon,Senior (5+ yrs),Banking & Finance,"JIRA, Spark, Machine Learning",No,26,26.9
+Product Analyst,HCL Technologies,Bangalore,Senior (5+ yrs),Logistics,"Azure, JIRA, Tableau, NumPy, Data Visualization, Machine Learning, Storytelling",Yes,12,33.3
+Business Analyst,IBM India,Delhi,Fresher (0-1 yr),E-Commerce,"Power BI, Storytelling, Google Analytics, Excel, SQL",Yes,39,4.2
+Junior Data Analyst,Swiggy,Kolkata,Junior (1-3 yrs),Banking & Finance,"R, SQL, Machine Learning, Power BI",Yes,18,9.0
+BI Analyst,Reliance Jio,Ahmedabad,Junior (1-3 yrs),Logistics,"Machine Learning, Power BI, SQL, Spark, Azure, Pandas",Yes,34,9.9
+Junior Data Analyst,Flipkart,Delhi,Mid (3-5 yrs),IT Services,"Communication, Pandas, SQL, ETL, Statistics, NumPy, Google Analytics",Yes,39,11.1
+Operations Analyst,Reliance Jio,Gurgaon,Fresher (0-1 yr),IT Services,"Python, Machine Learning, Azure",Hybrid,32,4.1
+Operations Analyst,Deloitte,Kolkata,Fresher (0-1 yr),Healthcare,"AWS, SQL, ETL",No,34,6.4
+Data Analyst,PhonePe,Hyderabad,Junior (1-3 yrs),Banking & Finance,"Hadoop, ETL, SQL, Pandas, JIRA, Communication, Azure",Yes,28,8.5
+Product Analyst,Deloitte,Ahmedabad,Mid (3-5 yrs),E-Commerce,"Excel, Machine Learning, Google Analytics, Power BI, JIRA",Yes,7,13.0
+BI Analyst,TCS,Mumbai,Mid (3-5 yrs),Retail,"JIRA, Spark, Machine Learning, Storytelling",No,44,17.6
+Financial Analyst,Razorpay,Mumbai,Junior (1-3 yrs),Retail,"Statistics, Communication, R, Hadoop, Power BI, Spark, Data Visualization",Hybrid,4,7.0
+Data Analyst,Swiggy,Pune,Senior (5+ yrs),E-Commerce,"ETL, AWS, Hadoop, Power BI, R, Spark, Excel",Yes,42,17.5
+Senior Data Analyst,Capgemini,Noida,Fresher (0-1 yr),EdTech,"Spark, Google Analytics, Data Visualization, R, AWS, Azure, Communication",Hybrid,16,5.0
+BI Analyst,TCS,Gurgaon,Mid (3-5 yrs),Retail,"JIRA, Data Visualization, ETL, Hadoop, Google Analytics",Hybrid,8,9.7
+Data Scientist,Reliance Jio,Kolkata,Senior (5+ yrs),E-Commerce,"Storytelling, Statistics, JIRA, Machine Learning, Spark",Hybrid,15,22.9
+Business Analyst,Razorpay,Noida,Mid (3-5 yrs),Healthcare,"Pandas, ETL, AWS, JIRA, Spark, Python, Communication",No,8,13.4
+Data Analyst,Nykaa,Noida,Senior (5+ yrs),Retail,"NumPy, Python, Google Analytics",No,4,20.4
+Business Analyst,MakeMyTrip,Ahmedabad,Senior (5+ yrs),Retail,"NumPy, Python, Storytelling, Statistics",No,3,30.9
+Product Analyst,Infosys,Mumbai,Fresher (0-1 yr),Retail,"Data Visualization, Python, Pandas, Google Analytics",Hybrid,37,3.8
+Senior Data Analyst,Byju's,Hyderabad,Mid (3-5 yrs),IT Services,"Communication, Storytelling, Tableau, Power BI, SQL, Statistics, R",No,18,16.5
+Senior Data Analyst,MakeMyTrip,Delhi,Mid (3-5 yrs),E-Commerce,"Tableau, Pandas, ETL, Statistics",No,16,17.9
+Financial Analyst,HDFC Bank,Mumbai,Senior (5+ yrs),EdTech,"Pandas, NumPy, Excel, Spark",Hybrid,5,33.6
+Senior Data Analyst,Deloitte,Gurgaon,Junior (1-3 yrs),Healthcare,"Machine Learning, Excel, Data Visualization, Azure, R, Statistics, Hadoop",Hybrid,35,6.2
+Operations Analyst,Nykaa,Gurgaon,Mid (3-5 yrs),Logistics,"Power BI, NumPy, SQL, Spark, Excel, Google Analytics, Python",Yes,7,17.2
+Junior Data Analyst,IBM India,Kolkata,Fresher (0-1 yr),Healthcare,"ETL, Hadoop, Communication, Power BI, Statistics",No,18,5.4
+Junior Data Analyst,Byju's,Delhi,Junior (1-3 yrs),Healthcare,"Python, Spark, SQL, NumPy, JIRA, R, Pandas",Yes,15,8.3
+Financial Analyst,Flipkart,Hyderabad,Mid (3-5 yrs),Healthcare,"Tableau, Data Visualization, Google Analytics, Statistics, Storytelling, Python, Communication",Yes,40,14.4
+Operations Analyst,IBM India,Kolkata,Fresher (0-1 yr),Healthcare,"AWS, Communication, Google Analytics, Excel, Statistics, Machine Learning",Yes,45,5.8
+Junior Data Analyst,Ola,Ahmedabad,Junior (1-3 yrs),Healthcare,"Spark, Tableau, Communication, Data Visualization, Excel",Hybrid,46,6.7
+Data Scientist,Cognizant,Hyderabad,Mid (3-5 yrs),IT Services,"Communication, SQL, JIRA, Spark, Pandas, Storytelling",Yes,26,10.1
+Operations Analyst,Byju's,Hyderabad,Fresher (0-1 yr),IT Services,"Google Analytics, Hadoop, Tableau, JIRA, Azure, Pandas",Hybrid,26,4.4
+Product Analyst,Capgemini,Noida,Junior (1-3 yrs),EdTech,"Azure, Spark, Machine Learning, Google Analytics",Yes,26,7.5
+Marketing Analyst,Razorpay,Kolkata,Mid (3-5 yrs),E-Commerce,"Statistics, Excel, Pandas, Hadoop",Hybrid,7,10.3
+Business Analyst,Nykaa,Bangalore,Junior (1-3 yrs),Logistics,"Communication, Excel, Power BI, Hadoop, Google Analytics",Yes,15,7.5
+Operations Analyst,MakeMyTrip,Mumbai,Senior (5+ yrs),Banking & Finance,"ETL, Machine Learning, Data Visualization, Storytelling, Python",Yes,47,32.7
+Business Analyst,Nykaa,Kolkata,Senior (5+ yrs),IT Services,"R, ETL, AWS, Tableau, JIRA",No,45,19.8
+Data Scientist,Razorpay,Hyderabad,Junior (1-3 yrs),Banking & Finance,"Statistics, Machine Learning, ETL",No,18,5.9
+Marketing Analyst,Razorpay,Pune,Senior (5+ yrs),Retail,"Excel, Power BI, SQL, Statistics",Hybrid,32,24.6
+BI Analyst,Tech Mahindra,Hyderabad,Senior (5+ yrs),Retail,"Tableau, NumPy, Python, Data Visualization, Power BI, Storytelling, Statistics",No,14,19.2
+Financial Analyst,Ola,Hyderabad,Junior (1-3 yrs),EdTech,"Python, Data Visualization, Machine Learning, JIRA, Google Analytics, Pandas",Hybrid,11,7.1
+Operations Analyst,HCL Technologies,Delhi,Senior (5+ yrs),E-Commerce,"Pandas, JIRA, Azure, Tableau, Python, Machine Learning, NumPy",Hybrid,14,30.5
+Financial Analyst,Ola,Chennai,Junior (1-3 yrs),IT Services,"SQL, Pandas, R, Storytelling, NumPy, Power BI, Spark",No,23,8.6
+Senior Data Analyst,Ola,Delhi,Junior (1-3 yrs),Logistics,"Pandas, SQL, AWS, Python, Excel, Machine Learning, Data Visualization",Hybrid,41,7.3
+Business Analyst,Infosys,Kolkata,Senior (5+ yrs),IT Services,"ETL, Power BI, Python, NumPy, Spark",Hybrid,19,17.9
+Business Analyst,Deloitte,Pune,Mid (3-5 yrs),Logistics,"Spark, Google Analytics, Power BI, Data Visualization",No,46,16.8
+Senior Data Analyst,Paytm,Mumbai,Junior (1-3 yrs),Logistics,"Storytelling, JIRA, Excel, R, Machine Learning, Pandas",Hybrid,39,9.2
+BI Analyst,Infosys,Pune,Junior (1-3 yrs),E-Commerce,"JIRA, Python, SQL, Statistics, NumPy, R",Yes,19,5.1
+Data Analyst,Reliance Jio,Chennai,Mid (3-5 yrs),E-Commerce,"Spark, R, Python, ETL, Google Analytics, Communication",No,47,10.5
+Product Analyst,Flipkart,Kolkata,Senior (5+ yrs),Logistics,"Statistics, Google Analytics, Pandas, SQL, JIRA",Yes,1,17.4
+Operations Analyst,MakeMyTrip,Pune,Fresher (0-1 yr),Banking & Finance,"Python, JIRA, Pandas, Statistics, Tableau, R",No,7,4.8
+Business Analyst,Tech Mahindra,Hyderabad,Mid (3-5 yrs),Banking & Finance,"Tableau, Excel, Spark, Google Analytics, Statistics, Machine Learning",Yes,12,13.8
+Product Analyst,Wipro,Pune,Fresher (0-1 yr),E-Commerce,"Communication, Tableau, Hadoop, NumPy",Hybrid,33,4.4
+Business Analyst,Deloitte,Ahmedabad,Senior (5+ yrs),IT Services,"Data Visualization, AWS, JIRA, Tableau, Machine Learning, Storytelling, Excel",No,45,24.0
+Data Analyst,Amazon India,Kolkata,Junior (1-3 yrs),Healthcare,"JIRA, Machine Learning, Tableau, NumPy, Storytelling, Communication, Spark",Yes,40,5.6
+Senior Data Analyst,MakeMyTrip,Mumbai,Junior (1-3 yrs),EdTech,"Communication, R, Data Visualization, Excel",Hybrid,31,8.5
+Data Analyst,Zomato,Kolkata,Senior (5+ yrs),EdTech,"JIRA, Power BI, R, Data Visualization, Tableau, ETL, Python",Yes,48,20.6
+Business Analyst,Accenture,Hyderabad,Senior (5+ yrs),Banking & Finance,"Hadoop, Storytelling, NumPy, AWS, Pandas",No,20,21.6
+Senior Data Analyst,Cognizant,Ahmedabad,Senior (5+ yrs),E-Commerce,"Machine Learning, Power BI, Tableau, R",Hybrid,45,22.4
+Data Analyst,Tech Mahindra,Ahmedabad,Senior (5+ yrs),IT Services,"Storytelling, Pandas, Statistics",Yes,16,31.7
+BI Analyst,Axis Bank,Hyderabad,Senior (5+ yrs),Retail,"Statistics, Storytelling, Python, ETL, Excel, Google Analytics, Spark",Yes,11,22.4
+Senior Data Analyst,Flipkart,Hyderabad,Senior (5+ yrs),IT Services,"Tableau, Google Analytics, Azure, ETL, R, Hadoop",No,21,27.6
+Operations Analyst,ICICI Bank,Ahmedabad,Senior (5+ yrs),Banking & Finance,"Azure, Storytelling, Tableau, R, Machine Learning, Power BI",Yes,44,18.0
+Business Analyst,ICICI Bank,Ahmedabad,Junior (1-3 yrs),Banking & Finance,"Hadoop, Python, Pandas",Hybrid,5,8.6
+Data Scientist,Capgemini,Delhi,Fresher (0-1 yr),Healthcare,"Statistics, Machine Learning, Communication, Excel, R, AWS",Hybrid,11,3.3
+Financial Analyst,Accenture,Ahmedabad,Fresher (0-1 yr),Logistics,"Storytelling, Azure, Data Visualization, AWS, Statistics, Machine Learning",Hybrid,12,6.2
+Business Analyst,Capgemini,Bangalore,Junior (1-3 yrs),EdTech,"SQL, Spark, Data Visualization, Communication, Storytelling, Pandas",Yes,22,9.7
+Operations Analyst,HDFC Bank,Bangalore,Mid (3-5 yrs),EdTech,"AWS, Storytelling, SQL",Hybrid,30,17.2
+Junior Data Analyst,Deloitte,Mumbai,Fresher (0-1 yr),EdTech,"Google Analytics, JIRA, Spark, SQL",No,10,5.2
+Product Analyst,MakeMyTrip,Bangalore,Mid (3-5 yrs),Banking & Finance,"Spark, Google Analytics, SQL, Machine Learning, NumPy, Statistics, Communication",No,1,15.7
+Product Analyst,Amazon India,Ahmedabad,Junior (1-3 yrs),Healthcare,"NumPy, AWS, R, Hadoop, Storytelling",No,43,7.2
+Financial Analyst,HCL Technologies,Pune,Mid (3-5 yrs),Logistics,"SQL, Google Analytics, Tableau, AWS, Communication, Storytelling, ETL",Hybrid,31,15.8
+Business Analyst,Paytm,Chennai,Junior (1-3 yrs),E-Commerce,"Power BI, R, JIRA, Tableau, Spark, Machine Learning, Communication",Hybrid,28,8.5
+Financial Analyst,Wipro,Ahmedabad,Senior (5+ yrs),Banking & Finance,"Python, R, AWS, Machine Learning, JIRA, SQL",No,22,29.9
+Marketing Analyst,Tech Mahindra,Noida,Senior (5+ yrs),Healthcare,"Data Visualization, R, Power BI, Excel, JIRA",No,2,29.8
+Business Analyst,Nykaa,Ahmedabad,Fresher (0-1 yr),Banking & Finance,"ETL, Excel, Google Analytics, Spark, R, Machine Learning",Yes,12,5.1
+Senior Data Analyst,IBM India,Bangalore,Fresher (0-1 yr),Retail,"Spark, SQL, R, Data Visualization, Tableau, Excel, Hadoop",Yes,17,5.9
+Senior Data Analyst,Razorpay,Gurgaon,Mid (3-5 yrs),E-Commerce,"R, SQL, Hadoop, NumPy",No,5,13.6
+Marketing Analyst,MakeMyTrip,Kolkata,Mid (3-5 yrs),E-Commerce,"AWS, NumPy, R, Power BI, Tableau",Hybrid,11,10.4
+BI Analyst,Razorpay,Pune,Fresher (0-1 yr),Retail,"Python, Pandas, Storytelling, AWS",No,44,3.0
+Marketing Analyst,Swiggy,Pune,Senior (5+ yrs),Healthcare,"Azure, JIRA, Python, Storytelling, Statistics, Power BI",Yes,49,27.3
+Marketing Analyst,Axis Bank,Gurgaon,Junior (1-3 yrs),IT Services,"Azure, AWS, Hadoop, Communication, Excel, NumPy, Google Analytics",No,1,8.4
+Financial Analyst,Flipkart,Chennai,Senior (5+ yrs),E-Commerce,"Statistics, JIRA, Pandas",Yes,39,24.6
+Data Analyst,Wipro,Noida,Fresher (0-1 yr),E-Commerce,"JIRA, Machine Learning, SQL, R, Tableau, Python, Data Visualization",Yes,23,4.1
+Senior Data Analyst,Swiggy,Pune,Junior (1-3 yrs),Logistics,"SQL, Tableau, Storytelling, NumPy, Data Visualization",Yes,31,5.9
+Data Analyst,TCS,Gurgaon,Mid (3-5 yrs),E-Commerce,"SQL, Power BI, Hadoop",No,38,15.5
+Marketing Analyst,Capgemini,Mumbai,Fresher (0-1 yr),E-Commerce,"R, NumPy, JIRA, Storytelling",Hybrid,1,4.0
+BI Analyst,Axis Bank,Bangalore,Senior (5+ yrs),Logistics,"Communication, ETL, SQL, Excel, NumPy, R",No,32,30.7
+Senior Data Analyst,HCL Technologies,Hyderabad,Mid (3-5 yrs),IT Services,"Spark, Excel, Hadoop, Communication, NumPy",Yes,16,11.1
+Business Analyst,Paytm,Gurgaon,Mid (3-5 yrs),EdTech,"Tableau, Power BI, Pandas, Data Visualization, Hadoop, JIRA",Yes,31,13.4
+Business Analyst,Flipkart,Noida,Fresher (0-1 yr),EdTech,"Machine Learning, SQL, Power BI, Google Analytics",No,8,3.2
+Business Analyst,Razorpay,Gurgaon,Senior (5+ yrs),E-Commerce,"Azure, NumPy, Hadoop",Yes,3,25.8
+Operations Analyst,MakeMyTrip,Gurgaon,Fresher (0-1 yr),IT Services,"Data Visualization, Pandas, Google Analytics, ETL, Tableau, NumPy, AWS",Hybrid,2,4.8
+Financial Analyst,Razorpay,Chennai,Junior (1-3 yrs),Banking & Finance,"Google Analytics, Azure, Communication, R, Statistics, ETL",Yes,37,7.5
+Junior Data Analyst,Capgemini,Delhi,Junior (1-3 yrs),Logistics,"Machine Learning, Python, Power BI, Communication, AWS",Yes,44,9.6
+Marketing Analyst,Reliance Jio,Ahmedabad,Mid (3-5 yrs),Logistics,"Machine Learning, Hadoop, Communication",Yes,19,11.6
+Junior Data Analyst,Swiggy,Hyderabad,Senior (5+ yrs),Retail,"Data Visualization, ETL, JIRA",Hybrid,15,23.3
+Data Scientist,Ola,Delhi,Junior (1-3 yrs),IT Services,"Python, Machine Learning, NumPy, Pandas",Yes,34,8.8
+Financial Analyst,Flipkart,Delhi,Junior (1-3 yrs),Healthcare,"NumPy, Storytelling, Google Analytics",No,33,9.8
+Business Analyst,HCL Technologies,Delhi,Junior (1-3 yrs),Logistics,"Data Visualization, Python, Power BI, Storytelling, Google Analytics, Machine Learning, ETL",Yes,11,5.2
+Senior Data Analyst,Razorpay,Noida,Junior (1-3 yrs),Banking & Finance,"Storytelling, Python, R, Machine Learning, Data Visualization, Hadoop, JIRA",Hybrid,49,9.7
+Financial Analyst,IBM India,Hyderabad,Fresher (0-1 yr),Retail,"Azure, SQL, Tableau, Storytelling, JIRA, Data Visualization",Yes,10,6.1
+Operations Analyst,HDFC Bank,Delhi,Mid (3-5 yrs),EdTech,"JIRA, Data Visualization, AWS, Hadoop, SQL, Google Analytics",Hybrid,50,15.6
+Senior Data Analyst,TCS,Kolkata,Mid (3-5 yrs),EdTech,"NumPy, Communication, Data Visualization, Python, Machine Learning, Storytelling, JIRA",Yes,7,12.9
+Data Analyst,Byju's,Kolkata,Junior (1-3 yrs),IT Services,"ETL, Excel, Tableau, Pandas, Python",Yes,7,6.4
+Operations Analyst,Axis Bank,Mumbai,Mid (3-5 yrs),EdTech,"Spark, JIRA, R, Storytelling, Communication",No,20,16.9
+Data Analyst,Amazon India,Delhi,Mid (3-5 yrs),IT Services,"Power BI, NumPy, Data Visualization, SQL, Pandas, Machine Learning, Google Analytics",Yes,48,11.8
+Senior Data Analyst,Byju's,Chennai,Mid (3-5 yrs),Logistics,"Statistics, ETL, AWS, NumPy, Machine Learning, Pandas",Hybrid,22,12.1
+Business Analyst,IBM India,Gurgaon,Mid (3-5 yrs),IT Services,"R, Power BI, ETL, SQL, Machine Learning",Hybrid,29,10.5
+Junior Data Analyst,Ola,Mumbai,Fresher (0-1 yr),Logistics,"AWS, Google Analytics, Python",Yes,32,4.0
+Marketing Analyst,Wipro,Pune,Junior (1-3 yrs),Retail,"Google Analytics, Tableau, Machine Learning, Data Visualization, Azure, ETL",Hybrid,48,7.4
+Financial Analyst,Ola,Gurgaon,Senior (5+ yrs),IT Services,"NumPy, Data Visualization, Tableau, Power BI, JIRA, Google Analytics, ETL",No,23,20.2
+Financial Analyst,Paytm,Chennai,Fresher (0-1 yr),IT Services,"AWS, Spark, Google Analytics",Yes,35,3.6
+Business Analyst,PhonePe,Hyderabad,Mid (3-5 yrs),Logistics,"Python, NumPy, SQL",Yes,17,17.5
+Marketing Analyst,Deloitte,Mumbai,Junior (1-3 yrs),IT Services,"Excel, Data Visualization, AWS, SQL, Power BI, Pandas, Spark",No,43,6.3
+Data Analyst,Ola,Bangalore,Junior (1-3 yrs),Healthcare,"Python, Communication, NumPy, Machine Learning, Data Visualization",Yes,32,8.0
+Junior Data Analyst,Zomato,Pune,Junior (1-3 yrs),Healthcare,"Machine Learning, NumPy, Pandas, Data Visualization",No,17,5.5
+Marketing Analyst,HCL Technologies,Noida,Junior (1-3 yrs),Healthcare,"Power BI, Pandas, Tableau, R, Communication, SQL",Yes,24,6.2
+Data Analyst,Tech Mahindra,Ahmedabad,Mid (3-5 yrs),IT Services,"Storytelling, JIRA, Google Analytics",No,30,11.5
+Marketing Analyst,Infosys,Noida,Junior (1-3 yrs),EdTech,"Machine Learning, JIRA, ETL",No,1,5.5
+Data Scientist,Infosys,Chennai,Senior (5+ yrs),Banking & Finance,"Data Visualization, Pandas, Tableau, NumPy, Statistics, Excel, SQL",No,23,26.5
+Financial Analyst,Deloitte,Hyderabad,Senior (5+ yrs),Healthcare,"Storytelling, Data Visualization, JIRA, AWS, SQL",Hybrid,20,25.7
+Data Scientist,HDFC Bank,Delhi,Junior (1-3 yrs),Logistics,"Python, Azure, SQL, Power BI",Yes,46,5.8
+Marketing Analyst,HCL Technologies,Ahmedabad,Mid (3-5 yrs),E-Commerce,"SQL, Excel, Hadoop, Spark, R, ETL",No,22,14.4
+Operations Analyst,HCL Technologies,Delhi,Senior (5+ yrs),E-Commerce,"Communication, AWS, ETL, NumPy, Data Visualization, Hadoop, Power BI",No,34,16.8
+Financial Analyst,IBM India,Chennai,Senior (5+ yrs),Logistics,"Excel, AWS, Tableau, Storytelling, Communication, SQL, Statistics",Hybrid,50,32.9
+Junior Data Analyst,Axis Bank,Hyderabad,Senior (5+ yrs),Logistics,"AWS, Azure, Statistics, JIRA, Tableau",No,43,26.2
+Business Analyst,Tech Mahindra,Gurgaon,Fresher (0-1 yr),Logistics,"Pandas, ETL, Spark, R, Data Visualization, JIRA, Hadoop",Yes,39,3.7
+Data Scientist,Swiggy,Kolkata,Fresher (0-1 yr),IT Services,"AWS, Azure, Python, Excel, Communication",Hybrid,31,4.7
+Business Analyst,Paytm,Gurgaon,Senior (5+ yrs),Banking & Finance,"ETL, Azure, AWS",Hybrid,8,31.6
+Data Analyst,Flipkart,Gurgaon,Mid (3-5 yrs),Healthcare,"NumPy, ETL, Tableau, Google Analytics",Yes,18,12.3
+Product Analyst,Razorpay,Pune,Mid (3-5 yrs),Logistics,"Spark, Power BI, Data Visualization",No,44,11.5
+Operations Analyst,MakeMyTrip,Gurgaon,Senior (5+ yrs),IT Services,"Excel, NumPy, JIRA, AWS, Spark, Communication, Machine Learning",No,34,34.0
+Data Analyst,PhonePe,Bangalore,Senior (5+ yrs),Logistics,"Storytelling, Statistics, JIRA, R",Hybrid,47,24.1
+BI Analyst,Axis Bank,Mumbai,Mid (3-5 yrs),EdTech,"Spark, Excel, Data Visualization, Machine Learning, Hadoop, Storytelling",Hybrid,41,13.0
+Data Analyst,Zomato,Noida,Fresher (0-1 yr),Banking & Finance,"Communication, Data Visualization, JIRA, Statistics, R, Storytelling",Yes,2,3.4
+Data Analyst,Reliance Jio,Kolkata,Fresher (0-1 yr),EdTech,"Communication, Azure, Power BI",Hybrid,10,4.6
+Product Analyst,MakeMyTrip,Gurgaon,Senior (5+ yrs),EdTech,"Storytelling, AWS, Data Visualization, Power BI, Communication, Excel, Tableau",Yes,27,33.4
+Financial Analyst,MakeMyTrip,Chennai,Mid (3-5 yrs),Logistics,"Excel, Power BI, Spark, Data Visualization, Azure, Google Analytics",Yes,15,15.4
+Operations Analyst,Tech Mahindra,Chennai,Fresher (0-1 yr),E-Commerce,"Excel, Machine Learning, Tableau",Hybrid,43,6.2
+Operations Analyst,Zomato,Ahmedabad,Senior (5+ yrs),Healthcare,"Python, Tableau, Communication, AWS, NumPy, Machine Learning, Azure",No,10,18.3
+Junior Data Analyst,Ola,Delhi,Junior (1-3 yrs),Retail,"AWS, Machine Learning, Communication, Data Visualization, NumPy, Azure, Spark",No,23,9.4
+Data Analyst,HCL Technologies,Bangalore,Senior (5+ yrs),IT Services,"Hadoop, ETL, Excel, Python, Spark",Hybrid,32,25.4
+Operations Analyst,HDFC Bank,Bangalore,Junior (1-3 yrs),EdTech,"NumPy, SQL, ETL, Communication",Yes,2,5.4
+Senior Data Analyst,Byju's,Pune,Senior (5+ yrs),Logistics,"JIRA, ETL, Power BI",No,16,18.6
+Junior Data Analyst,Zomato,Gurgaon,Mid (3-5 yrs),EdTech,"Python, Statistics, Hadoop, Spark, Data Visualization",Yes,37,11.5
+Senior Data Analyst,Capgemini,Ahmedabad,Mid (3-5 yrs),IT Services,"Spark, Storytelling, Hadoop, Machine Learning, R, Statistics",Yes,48,15.0
+Product Analyst,Infosys,Gurgaon,Mid (3-5 yrs),Banking & Finance,"Machine Learning, JIRA, Spark, ETL",Hybrid,45,17.7
+Senior Data Analyst,PhonePe,Pune,Mid (3-5 yrs),IT Services,"Tableau, NumPy, Storytelling, JIRA, Python, SQL",No,28,16.2
+Business Analyst,Flipkart,Kolkata,Junior (1-3 yrs),Retail,"Tableau, Azure, Hadoop",Yes,24,8.7
+Marketing Analyst,Cognizant,Bangalore,Senior (5+ yrs),IT Services,"Excel, Tableau, Hadoop, AWS",Hybrid,14,20.2
+Senior Data Analyst,Paytm,Mumbai,Mid (3-5 yrs),Healthcare,"Hadoop, R, AWS, Google Analytics, Storytelling, Pandas, Azure",Yes,48,9.7
+Product Analyst,Paytm,Noida,Fresher (0-1 yr),E-Commerce,"Spark, ETL, Statistics, R, Hadoop, NumPy",Hybrid,6,3.5
+Business Analyst,IBM India,Hyderabad,Fresher (0-1 yr),EdTech,"Communication, Azure, Statistics",Yes,13,4.2
+Product Analyst,Flipkart,Pune,Fresher (0-1 yr),E-Commerce,"Pandas, Hadoop, JIRA, ETL, SQL, Python, NumPy",Yes,25,4.6
+Product Analyst,HCL Technologies,Delhi,Senior (5+ yrs),Retail,"ETL, Power BI, Azure, Excel, Tableau, Storytelling",Hybrid,41,30.0
+Data Analyst,Razorpay,Noida,Fresher (0-1 yr),Banking & Finance,"Pandas, AWS, Google Analytics, Excel, JIRA, Power BI, Statistics",Hybrid,7,5.4
+Product Analyst,Flipkart,Delhi,Fresher (0-1 yr),Retail,"JIRA, Communication, NumPy",Yes,18,3.3
+Senior Data Analyst,Axis Bank,Bangalore,Junior (1-3 yrs),EdTech,"SQL, Data Visualization, JIRA, Python, Azure, Statistics, Pandas",Hybrid,41,8.4
+Marketing Analyst,Ola,Noida,Senior (5+ yrs),E-Commerce,"Communication, Data Visualization, Hadoop, ETL, NumPy, Tableau",Yes,44,33.0
+Product Analyst,Flipkart,Bangalore,Senior (5+ yrs),Banking & Finance,"SQL, NumPy, Pandas, Storytelling",Hybrid,35,16.7
+Product Analyst,Infosys,Ahmedabad,Fresher (0-1 yr),Logistics,"Communication, R, SQL, NumPy, Python, Tableau",Hybrid,29,3.4
+Operations Analyst,Swiggy,Kolkata,Senior (5+ yrs),Healthcare,"Excel, Tableau, Google Analytics, Storytelling, Pandas, Communication",Hybrid,34,29.4
+BI Analyst,Capgemini,Chennai,Junior (1-3 yrs),Banking & Finance,"Storytelling, Pandas, Communication, JIRA",Hybrid,12,7.6
+Data Scientist,Cognizant,Delhi,Junior (1-3 yrs),E-Commerce,"Power BI, R, Tableau",Hybrid,17,6.0
+Business Analyst,HCL Technologies,Kolkata,Mid (3-5 yrs),IT Services,"ETL, R, Pandas, Statistics, Azure, Excel",Hybrid,44,14.0
+BI Analyst,Paytm,Pune,Junior (1-3 yrs),EdTech,"SQL, Data Visualization, Excel, Tableau, Google Analytics, Hadoop, Statistics",No,23,9.2
+Business Analyst,Wipro,Mumbai,Mid (3-5 yrs),Healthcare,"Spark, Statistics, AWS, R, Machine Learning, NumPy",No,22,14.6
+Data Scientist,Razorpay,Noida,Fresher (0-1 yr),E-Commerce,"SQL, Pandas, Power BI, Storytelling, R",Yes,26,6.3
+Marketing Analyst,Cognizant,Kolkata,Mid (3-5 yrs),Logistics,"Spark, Azure, NumPy, Communication, Statistics, Machine Learning",No,38,14.6
+Junior Data Analyst,Ola,Gurgaon,Mid (3-5 yrs),Healthcare,"Azure, Pandas, Tableau, Google Analytics, Hadoop, Python",No,27,11.2
+Data Scientist,Ola,Kolkata,Fresher (0-1 yr),Banking & Finance,"AWS, Spark, Data Visualization, Google Analytics, SQL",No,18,5.1
+Financial Analyst,Byju's,Pune,Mid (3-5 yrs),E-Commerce,"JIRA, ETL, Hadoop",Hybrid,20,16.8
+BI Analyst,TCS,Ahmedabad,Junior (1-3 yrs),IT Services,"Pandas, Data Visualization, Storytelling, JIRA, Power BI, Tableau, Communication",No,13,6.1
+Senior Data Analyst,Infosys,Ahmedabad,Fresher (0-1 yr),IT Services,"Spark, AWS, Statistics, Machine Learning, Data Visualization, Azure, ETL",Yes,3,3.7
+Data Analyst,Amazon India,Mumbai,Senior (5+ yrs),Logistics,"Data Visualization, JIRA, Python, Communication",Hybrid,38,24.9
+Financial Analyst,IBM India,Hyderabad,Mid (3-5 yrs),IT Services,"Python, Hadoop, Power BI",Hybrid,34,13.4
+Product Analyst,Tech Mahindra,Mumbai,Junior (1-3 yrs),IT Services,"Power BI, AWS, ETL, Statistics, NumPy, Tableau, Storytelling",No,45,5.9
+Product Analyst,Reliance Jio,Noida,Senior (5+ yrs),Retail,"Python, Excel, SQL",Yes,22,25.4
+Senior Data Analyst,Cognizant,Delhi,Fresher (0-1 yr),EdTech,"Machine Learning, Power BI, Communication, Excel, Tableau, Storytelling, Data Visualization",Yes,40,3.5
+Senior Data Analyst,Wipro,Delhi,Fresher (0-1 yr),Logistics,"R, Power BI, Storytelling, Pandas, NumPy, Statistics, Data Visualization",Hybrid,8,5.2
+Operations Analyst,Nykaa,Kolkata,Fresher (0-1 yr),Healthcare,"AWS, Pandas, Hadoop",Hybrid,28,3.3
+Business Analyst,Axis Bank,Delhi,Junior (1-3 yrs),E-Commerce,"Pandas, R, Excel, Storytelling, SQL",Yes,30,7.6
+Operations Analyst,Cognizant,Hyderabad,Senior (5+ yrs),IT Services,"Spark, Data Visualization, SQL, Pandas, Google Analytics, Excel",Yes,37,29.7
+Data Scientist,Reliance Jio,Chennai,Fresher (0-1 yr),Retail,"Excel, Azure, Machine Learning, Spark, R, Data Visualization",Hybrid,23,3.7
+Junior Data Analyst,Cognizant,Ahmedabad,Junior (1-3 yrs),EdTech,"Power BI, Tableau, JIRA, Hadoop, Machine Learning, NumPy",Hybrid,19,7.2
+BI Analyst,IBM India,Kolkata,Junior (1-3 yrs),IT Services,"AWS, Pandas, Power BI",No,8,7.5
+Senior Data Analyst,Amazon India,Noida,Senior (5+ yrs),Logistics,"Excel, Storytelling, Pandas",Yes,1,27.6
+Business Analyst,Nykaa,Kolkata,Fresher (0-1 yr),Logistics,"Python, Azure, Tableau, Storytelling, SQL, Data Visualization",Yes,32,5.5
+BI Analyst,Tech Mahindra,Bangalore,Fresher (0-1 yr),IT Services,"Pandas, Tableau, Data Visualization, Spark, Python, Storytelling",Yes,44,3.1
+Data Scientist,Byju's,Bangalore,Mid (3-5 yrs),Banking & Finance,"Azure, Hadoop, Spark, Excel, Statistics, Python",No,10,15.2
+Junior Data Analyst,TCS,Bangalore,Fresher (0-1 yr),Logistics,"Azure, Power BI, JIRA, ETL, Data Visualization, Storytelling",Hybrid,30,5.1
+Financial Analyst,Capgemini,Hyderabad,Senior (5+ yrs),E-Commerce,"Spark, SQL, Excel, ETL, Data Visualization",Yes,44,28.0
+Operations Analyst,Tech Mahindra,Delhi,Junior (1-3 yrs),Healthcare,"AWS, NumPy, Machine Learning",No,10,6.2
+Data Scientist,Tech Mahindra,Gurgaon,Senior (5+ yrs),Banking & Finance,"JIRA, SQL, Spark, Machine Learning",Yes,34,22.6
+Product Analyst,Axis Bank,Kolkata,Fresher (0-1 yr),Banking & Finance,"Spark, Power BI, ETL, Azure, Excel",No,19,4.9
+Operations Analyst,Capgemini,Gurgaon,Junior (1-3 yrs),Healthcare,"Machine Learning, Tableau, SQL, Storytelling, Python, ETL",No,40,9.8
+Data Analyst,Accenture,Hyderabad,Senior (5+ yrs),IT Services,"Statistics, Azure, Spark, Excel, NumPy, Storytelling, Pandas",Yes,36,32.7
+Operations Analyst,HCL Technologies,Ahmedabad,Fresher (0-1 yr),IT Services,"Python, SQL, Data Visualization, Communication, JIRA, Spark",No,43,5.9
+Data Scientist,Razorpay,Kolkata,Fresher (0-1 yr),Retail,"Spark, Power BI, Machine Learning",Yes,11,6.1
+Senior Data Analyst,TCS,Hyderabad,Fresher (0-1 yr),E-Commerce,"AWS, JIRA, Tableau, Statistics, Excel, Python, ETL",Yes,20,5.3
+Junior Data Analyst,Tech Mahindra,Delhi,Mid (3-5 yrs),Retail,"Azure, Python, Storytelling, SQL",No,32,13.4
+Data Scientist,TCS,Ahmedabad,Mid (3-5 yrs),IT Services,"Tableau, Python, R, SQL",Hybrid,19,14.7
+Senior Data Analyst,Flipkart,Delhi,Mid (3-5 yrs),Retail,"Power BI, AWS, R, Excel, Storytelling",No,5,14.4
+Senior Data Analyst,IBM India,Hyderabad,Junior (1-3 yrs),Banking & Finance,"Azure, Statistics, Excel",No,19,7.7
+Operations Analyst,Reliance Jio,Noida,Senior (5+ yrs),Banking & Finance,"Hadoop, Data Visualization, Spark, Communication",Yes,1,21.6
+Junior Data Analyst,Amazon India,Ahmedabad,Junior (1-3 yrs),Retail,"Communication, JIRA, Tableau",Yes,30,6.1
+Data Scientist,TCS,Pune,Junior (1-3 yrs),Logistics,"Machine Learning, SQL, R, Data Visualization, Excel",Yes,3,9.8
+Data Scientist,Accenture,Ahmedabad,Fresher (0-1 yr),Banking & Finance,"Pandas, Tableau, Hadoop",Hybrid,14,6.1
+Product Analyst,Capgemini,Delhi,Fresher (0-1 yr),Healthcare,"ETL, JIRA, R, AWS",No,19,5.7
+Business Analyst,Infosys,Kolkata,Junior (1-3 yrs),Logistics,"Communication, SQL, Tableau, Power BI",No,38,7.1
+BI Analyst,Tech Mahindra,Kolkata,Senior (5+ yrs),IT Services,"Spark, R, Python, Azure, Excel, JIRA, AWS",No,8,24.5
+Business Analyst,MakeMyTrip,Kolkata,Mid (3-5 yrs),IT Services,"Excel, Communication, NumPy, Hadoop",No,4,11.2
+Data Scientist,Zomato,Gurgaon,Junior (1-3 yrs),Retail,"Tableau, Machine Learning, Storytelling, Pandas, AWS, Communication",No,32,7.1
+Operations Analyst,ICICI Bank,Ahmedabad,Junior (1-3 yrs),Retail,"R, SQL, Storytelling, Azure",Hybrid,20,5.9
+Financial Analyst,HCL Technologies,Pune,Senior (5+ yrs),IT Services,"Excel, NumPy, ETL, Hadoop, Python, Pandas, Power BI",Yes,1,34.2
+Data Scientist,MakeMyTrip,Gurgaon,Senior (5+ yrs),IT Services,"Power BI, Google Analytics, Storytelling, ETL",Yes,28,28.6
+Data Analyst,Wipro,Bangalore,Junior (1-3 yrs),Retail,"Google Analytics, Statistics, AWS, Machine Learning, Pandas, Python, Power BI",Hybrid,23,6.7
+Senior Data Analyst,HDFC Bank,Delhi,Fresher (0-1 yr),E-Commerce,"Tableau, Azure, Communication",No,43,4.4
+Marketing Analyst,Paytm,Delhi,Fresher (0-1 yr),Logistics,"R, SQL, Communication, ETL",Yes,1,3.4
+Data Scientist,Nykaa,Mumbai,Junior (1-3 yrs),Logistics,"Machine Learning, Hadoop, Pandas, Data Visualization, AWS",No,4,9.4
+Data Analyst,Flipkart,Noida,Fresher (0-1 yr),E-Commerce,"Power BI, SQL, JIRA",No,17,5.9
+Data Analyst,ICICI Bank,Ahmedabad,Senior (5+ yrs),Banking & Finance,"R, Python, Azure, Google Analytics",No,9,32.4
+BI Analyst,Reliance Jio,Pune,Mid (3-5 yrs),Banking & Finance,"Excel, Statistics, AWS",No,23,14.4
+Junior Data Analyst,HCL Technologies,Bangalore,Senior (5+ yrs),Healthcare,"Communication, Data Visualization, Hadoop, Machine Learning, Storytelling, Power BI, Spark",Hybrid,19,29.1
+Data Scientist,Paytm,Ahmedabad,Mid (3-5 yrs),EdTech,"Data Visualization, Statistics, Power BI",Hybrid,33,9.3
+Junior Data Analyst,ICICI Bank,Gurgaon,Junior (1-3 yrs),Banking & Finance,"Hadoop, Machine Learning, Spark, Statistics",Yes,43,6.3
+Financial Analyst,IBM India,Pune,Junior (1-3 yrs),Logistics,"Azure, Communication, Storytelling",No,50,6.1
+Operations Analyst,Byju's,Ahmedabad,Mid (3-5 yrs),IT Services,"Hadoop, Tableau, Machine Learning",No,36,16.7
+Marketing Analyst,Infosys,Ahmedabad,Fresher (0-1 yr),Banking & Finance,"AWS, R, Spark, ETL, Tableau, Statistics, Google Analytics",Hybrid,10,4.4
+Operations Analyst,MakeMyTrip,Chennai,Junior (1-3 yrs),Retail,"ETL, Pandas, Machine Learning, Data Visualization",Hybrid,6,7.8
+Data Analyst,Razorpay,Bangalore,Mid (3-5 yrs),Banking & Finance,"SQL, Communication, Storytelling, Pandas",No,46,11.9
+Senior Data Analyst,ICICI Bank,Ahmedabad,Fresher (0-1 yr),E-Commerce,"Power BI, AWS, Communication, Hadoop",No,18,5.4
+Senior Data Analyst,Deloitte,Gurgaon,Mid (3-5 yrs),IT Services,"Data Visualization, Statistics, NumPy, R",Yes,10,12.7
+Junior Data Analyst,Paytm,Hyderabad,Junior (1-3 yrs),Healthcare,"R, Communication, JIRA, Statistics, Excel, Machine Learning, Hadoop",Hybrid,47,9.0
+Operations Analyst,Ola,Kolkata,Junior (1-3 yrs),Healthcare,"Azure, Machine Learning, Storytelling, AWS, Pandas, Python, ETL",No,13,7.1
+Data Analyst,TCS,Ahmedabad,Senior (5+ yrs),Healthcare,"Statistics, Storytelling, Data Visualization, Hadoop, Communication, AWS",Hybrid,28,21.0
+BI Analyst,Infosys,Noida,Mid (3-5 yrs),Banking & Finance,"Tableau, Communication, Python, Hadoop, SQL, JIRA, Statistics",No,38,9.5
+Product Analyst,HDFC Bank,Hyderabad,Fresher (0-1 yr),Retail,"SQL, Hadoop, Google Analytics, Spark, Azure, JIRA, AWS",No,6,4.7
+Operations Analyst,Swiggy,Chennai,Junior (1-3 yrs),Healthcare,"AWS, Azure, Statistics",Hybrid,19,6.1
+Junior Data Analyst,Zomato,Bangalore,Senior (5+ yrs),Logistics,"JIRA, Python, Hadoop",Yes,15,28.1
+Marketing Analyst,Razorpay,Ahmedabad,Senior (5+ yrs),Retail,"Tableau, ETL, NumPy, Statistics",Hybrid,3,16.9
+Junior Data Analyst,HCL Technologies,Mumbai,Fresher (0-1 yr),Healthcare,"Python, Azure, NumPy",Hybrid,31,4.6
+Data Analyst,HDFC Bank,Chennai,Junior (1-3 yrs),Retail,"AWS, Communication, Python, Storytelling",Yes,23,6.1
+Data Scientist,PhonePe,Bangalore,Senior (5+ yrs),Healthcare,"Tableau, Spark, R, ETL, AWS, Google Analytics",Hybrid,16,32.6
+BI Analyst,Paytm,Gurgaon,Fresher (0-1 yr),Logistics,"Excel, Spark, Data Visualization",Yes,44,4.9
+Data Analyst,Wipro,Delhi,Fresher (0-1 yr),Retail,"SQL, NumPy, Hadoop, Pandas, Machine Learning, Spark, Data Visualization",Hybrid,41,5.7
+BI Analyst,Wipro,Noida,Mid (3-5 yrs),E-Commerce,"Storytelling, Data Visualization, SQL",Hybrid,25,10.0
+Business Analyst,Amazon India,Hyderabad,Mid (3-5 yrs),IT Services,"ETL, SQL, Power BI, Spark, Storytelling, Statistics, NumPy",Yes,28,17.7
+Business Analyst,Byju's,Noida,Junior (1-3 yrs),E-Commerce,"ETL, Storytelling, R",Yes,26,8.1
+Senior Data Analyst,Tech Mahindra,Chennai,Senior (5+ yrs),Logistics,"Excel, JIRA, Machine Learning, Tableau, Data Visualization, Power BI, Pandas",Yes,7,18.5
+BI Analyst,Wipro,Noida,Senior (5+ yrs),Logistics,"Azure, Communication, Machine Learning",No,17,26.3
+Operations Analyst,Tech Mahindra,Kolkata,Mid (3-5 yrs),IT Services,"Data Visualization, ETL, Pandas, Google Analytics",No,20,17.6
+Marketing Analyst,Capgemini,Ahmedabad,Junior (1-3 yrs),Retail,"Pandas, SQL, Excel, ETL, Google Analytics, Statistics",Yes,39,5.1
+Product Analyst,Byju's,Gurgaon,Senior (5+ yrs),E-Commerce,"Google Analytics, Storytelling, Power BI, Azure, NumPy, Statistics",Hybrid,20,23.2
+Junior Data Analyst,Ola,Bangalore,Fresher (0-1 yr),IT Services,"ETL, Excel, Machine Learning, AWS, Communication, SQL, JIRA",No,12,5.7
+Business Analyst,Reliance Jio,Hyderabad,Fresher (0-1 yr),Healthcare,"NumPy, Excel, Power BI, R",Yes,37,4.2
+Junior Data Analyst,Axis Bank,Kolkata,Fresher (0-1 yr),EdTech,"Power BI, Tableau, Azure, Communication, Machine Learning",Yes,28,4.2
+Junior Data Analyst,PhonePe,Chennai,Fresher (0-1 yr),Healthcare,"Python, NumPy, Hadoop, Tableau, Azure, R, Machine Learning",No,44,5.7
+Marketing Analyst,Amazon India,Kolkata,Mid (3-5 yrs),Retail,"Python, NumPy, Machine Learning, Excel, Storytelling, Hadoop",No,21,9.6
+Data Analyst,Swiggy,Delhi,Junior (1-3 yrs),EdTech,"Google Analytics, Data Visualization, Hadoop, Communication",Hybrid,38,5.2
+Junior Data Analyst,Byju's,Gurgaon,Fresher (0-1 yr),Logistics,"Azure, Communication, Google Analytics, AWS, JIRA",Yes,9,3.7
+BI Analyst,ICICI Bank,Kolkata,Fresher (0-1 yr),Healthcare,"Communication, Tableau, NumPy, R, Pandas",No,44,4.9
+Marketing Analyst,Deloitte,Noida,Senior (5+ yrs),E-Commerce,"Azure, ETL, NumPy, SQL",No,50,34.7
+Business Analyst,Paytm,Delhi,Mid (3-5 yrs),EdTech,"ETL, NumPy, AWS, R",No,13,16.5
+Data Scientist,ICICI Bank,Hyderabad,Senior (5+ yrs),Healthcare,"R, JIRA, NumPy, Storytelling, Google Analytics, Hadoop, ETL",Hybrid,17,23.5
+Junior Data Analyst,Byju's,Gurgaon,Senior (5+ yrs),Retail,"R, Statistics, Power BI, SQL",Hybrid,9,29.6
+Senior Data Analyst,Zomato,Kolkata,Senior (5+ yrs),Banking & Finance,"Communication, Tableau, AWS, Pandas, ETL",No,27,21.5
+Marketing Analyst,HCL Technologies,Delhi,Fresher (0-1 yr),EdTech,"Machine Learning, JIRA, SQL, Data Visualization",Yes,36,3.6
+Data Analyst,PhonePe,Kolkata,Junior (1-3 yrs),IT Services,"Tableau, ETL, AWS, R, NumPy",Yes,13,6.9
+Financial Analyst,HCL Technologies,Delhi,Mid (3-5 yrs),Retail,"Python, Spark, Azure",Yes,20,12.7
+Business Analyst,Ola,Pune,Fresher (0-1 yr),Logistics,"AWS, Data Visualization, Tableau, Python",Hybrid,20,4.9
+Business Analyst,Ola,Ahmedabad,Mid (3-5 yrs),Retail,"Google Analytics, Data Visualization, NumPy, Azure, JIRA, Spark, Storytelling",Yes,6,11.2
+Financial Analyst,Nykaa,Gurgaon,Fresher (0-1 yr),Logistics,"Communication, AWS, Data Visualization, Power BI",No,20,3.0
+BI Analyst,Axis Bank,Chennai,Junior (1-3 yrs),E-Commerce,"SQL, Tableau, JIRA, Power BI, NumPy, Python",No,37,9.2
+Data Scientist,MakeMyTrip,Chennai,Junior (1-3 yrs),Healthcare,"Storytelling, Statistics, AWS, ETL, Excel, R",Yes,41,8.8
+Business Analyst,Cognizant,Pune,Mid (3-5 yrs),Healthcare,"Storytelling, Machine Learning, Google Analytics",No,30,13.7
+Business Analyst,Zomato,Kolkata,Senior (5+ yrs),IT Services,"Pandas, Machine Learning, Python, Excel",No,35,25.5
+Data Analyst,Paytm,Pune,Fresher (0-1 yr),Healthcare,"AWS, Excel, Google Analytics, Spark, Machine Learning, Statistics, R",Yes,12,5.8
+Business Analyst,IBM India,Chennai,Mid (3-5 yrs),Healthcare,"Storytelling, Google Analytics, SQL, ETL, Spark, Excel, Communication",No,25,9.4
+Marketing Analyst,Zomato,Pune,Senior (5+ yrs),IT Services,"ETL, Spark, Storytelling, Python, NumPy, R",No,28,21.4
+BI Analyst,Amazon India,Pune,Junior (1-3 yrs),IT Services,"NumPy, AWS, JIRA, Excel, Machine Learning",Hybrid,7,5.1
+Data Scientist,Paytm,Chennai,Fresher (0-1 yr),Banking & Finance,"Hadoop, AWS, NumPy, R, Storytelling, ETL",No,9,5.2
+Senior Data Analyst,Swiggy,Gurgaon,Junior (1-3 yrs),Logistics,"Tableau, Communication, Excel, Storytelling, Machine Learning, Google Analytics",Yes,34,8.4
+Data Scientist,Zomato,Delhi,Fresher (0-1 yr),Banking & Finance,"Google Analytics, Data Visualization, Excel, Spark, JIRA, Python",Hybrid,29,3.1
+BI Analyst,MakeMyTrip,Gurgaon,Senior (5+ yrs),IT Services,"Pandas, Hadoop, R, AWS, Tableau, Power BI",Hybrid,45,30.2
+Operations Analyst,HCL Technologies,Delhi,Fresher (0-1 yr),Logistics,"Spark, NumPy, JIRA, Azure",No,21,5.8
+Marketing Analyst,Amazon India,Kolkata,Senior (5+ yrs),Retail,"NumPy, Communication, Storytelling",Yes,33,23.2
+Operations Analyst,Zomato,Pune,Fresher (0-1 yr),Logistics,"JIRA, AWS, Statistics, Python, Google Analytics, Excel",No,44,4.4
+BI Analyst,Amazon India,Pune,Mid (3-5 yrs),EdTech,"NumPy, Azure, Power BI, Storytelling, Hadoop",No,46,16.4
+Data Analyst,Razorpay,Mumbai,Junior (1-3 yrs),Retail,"Azure, Statistics, Python, Power BI",Yes,23,9.4
+Senior Data Analyst,Capgemini,Ahmedabad,Fresher (0-1 yr),Logistics,"Azure, Excel, ETL, Storytelling, Hadoop",Hybrid,30,6.0
+Data Scientist,Flipkart,Kolkata,Fresher (0-1 yr),EdTech,"Azure, Power BI, ETL, Google Analytics, Python",Yes,23,3.3
+Junior Data Analyst,Tech Mahindra,Noida,Junior (1-3 yrs),Logistics,"R, Communication, SQL, Tableau, Data Visualization",No,28,7.5
+Product Analyst,Razorpay,Noida,Fresher (0-1 yr),EdTech,"Tableau, ETL, R, SQL, Pandas, JIRA",Yes,30,5.5
+Data Scientist,HDFC Bank,Delhi,Junior (1-3 yrs),E-Commerce,"ETL, SQL, NumPy, JIRA, Excel, Pandas",Hybrid,27,8.7
+Data Analyst,Wipro,Hyderabad,Senior (5+ yrs),Logistics,"R, Power BI, Storytelling, Data Visualization",Yes,27,16.4
+Senior Data Analyst,Wipro,Pune,Mid (3-5 yrs),Retail,"NumPy, Pandas, ETL, Power BI, JIRA",No,30,15.7
+Product Analyst,Wipro,Bangalore,Mid (3-5 yrs),Banking & Finance,"Python, Tableau, Google Analytics, NumPy",Hybrid,2,13.9
+Marketing Analyst,Wipro,Pune,Junior (1-3 yrs),EdTech,"Azure, Hadoop, Data Visualization, R, Power BI",Yes,36,9.6
+BI Analyst,Zomato,Mumbai,Mid (3-5 yrs),EdTech,"Tableau, Google Analytics, Statistics, Machine Learning",Hybrid,2,9.9
+BI Analyst,HCL Technologies,Delhi,Junior (1-3 yrs),Logistics,"Storytelling, Google Analytics, JIRA, Power BI, Hadoop, Statistics, SQL",No,50,7.9
+Marketing Analyst,MakeMyTrip,Gurgaon,Mid (3-5 yrs),Logistics,"Tableau, Python, Azure",Yes,27,12.5
+Product Analyst,MakeMyTrip,Pune,Fresher (0-1 yr),EdTech,"NumPy, ETL, Tableau, AWS, Data Visualization",No,6,5.9
+Operations Analyst,Flipkart,Gurgaon,Fresher (0-1 yr),IT Services,"NumPy, Python, Power BI, Statistics",No,49,6.0
+Senior Data Analyst,Tech Mahindra,Chennai,Mid (3-5 yrs),Healthcare,"Tableau, Statistics, NumPy, Storytelling",No,9,16.1
+Marketing Analyst,Axis Bank,Chennai,Senior (5+ yrs),Logistics,"Tableau, Excel, Hadoop, Power BI",Yes,40,24.1
+Product Analyst,Infosys,Kolkata,Mid (3-5 yrs),Logistics,"Python, Azure, Hadoop",Yes,20,15.7
+Business Analyst,Reliance Jio,Pune,Fresher (0-1 yr),E-Commerce,"Machine Learning, Power BI, SQL",Yes,16,4.1
+Data Scientist,Axis Bank,Kolkata,Mid (3-5 yrs),Healthcare,"Communication, SQL, Azure, Power BI, Pandas, Python, Storytelling",Yes,38,13.1
+Data Analyst,Axis Bank,Pune,Fresher (0-1 yr),Banking & Finance,"Python, Power BI, Communication, Machine Learning, Google Analytics",Hybrid,33,3.3
+Marketing Analyst,Amazon India,Hyderabad,Senior (5+ yrs),Logistics,"ETL, Python, Excel, Tableau",No,24,34.4
+Data Analyst,Razorpay,Mumbai,Senior (5+ yrs),Logistics,"Communication, ETL, Storytelling, R, Statistics",No,9,26.9
+Operations Analyst,HCL Technologies,Ahmedabad,Mid (3-5 yrs),Logistics,"Communication, Excel, Power BI, Python, Machine Learning, ETL, JIRA",No,40,12.4
+Operations Analyst,Zomato,Ahmedabad,Fresher (0-1 yr),Healthcare,"R, JIRA, Python, Power BI, Machine Learning",Hybrid,35,4.5
+Business Analyst,Flipkart,Chennai,Senior (5+ yrs),E-Commerce,"Azure, ETL, R, AWS, Power BI, Excel, Hadoop",Yes,37,20.2
+BI Analyst,Razorpay,Chennai,Junior (1-3 yrs),Retail,"Spark, Hadoop, Machine Learning, Google Analytics, Statistics",Yes,19,7.0
+Marketing Analyst,Nykaa,Bangalore,Mid (3-5 yrs),Retail,"Power BI, Data Visualization, Storytelling, AWS, JIRA, Pandas",Yes,4,11.5
+Senior Data Analyst,Zomato,Kolkata,Junior (1-3 yrs),EdTech,"Azure, ETL, NumPy, SQL",Yes,49,6.4
+BI Analyst,MakeMyTrip,Chennai,Mid (3-5 yrs),EdTech,"Data Visualization, Azure, Power BI",No,26,15.3
+Product Analyst,Infosys,Chennai,Fresher (0-1 yr),IT Services,"NumPy, AWS, Storytelling, Communication, Statistics, Pandas",No,9,4.8
+BI Analyst,Deloitte,Bangalore,Fresher (0-1 yr),IT Services,"NumPy, Hadoop, Machine Learning, Excel, Azure, Data Visualization",Yes,26,4.3
+Senior Data Analyst,Byju's,Mumbai,Junior (1-3 yrs),Logistics,"R, Python, Azure, Power BI, Spark",No,43,10.0
+Data Scientist,Deloitte,Noida,Fresher (0-1 yr),E-Commerce,"Google Analytics, Excel, Power BI, Tableau, Spark, Machine Learning",Hybrid,1,5.5
+Operations Analyst,Flipkart,Delhi,Fresher (0-1 yr),EdTech,"Power BI, R, Excel, ETL, Machine Learning, Communication, Storytelling",No,30,6.3
+Data Scientist,HCL Technologies,Gurgaon,Fresher (0-1 yr),Retail,"Spark, Power BI, Statistics, Hadoop, Azure, Tableau, Storytelling",No,49,5.7
+Marketing Analyst,Reliance Jio,Mumbai,Junior (1-3 yrs),Healthcare,"Communication, Pandas, Spark, ETL, Azure, Data Visualization, NumPy",Hybrid,34,8.6
+BI Analyst,ICICI Bank,Hyderabad,Fresher (0-1 yr),Retail,"Azure, Google Analytics, Pandas, Tableau, AWS, SQL",Yes,30,4.6
+Marketing Analyst,Cognizant,Bangalore,Senior (5+ yrs),Healthcare,"Pandas, Azure, Communication",Hybrid,4,27.0
+Data Scientist,Tech Mahindra,Kolkata,Mid (3-5 yrs),Retail,"Tableau, Python, Power BI, SQL",No,6,9.2
+Operations Analyst,Razorpay,Hyderabad,Senior (5+ yrs),E-Commerce,"Azure, Python, R",Yes,4,30.7
+Junior Data Analyst,HDFC Bank,Noida,Junior (1-3 yrs),IT Services,"Storytelling, Data Visualization, Tableau, NumPy, Power BI, Spark",Yes,18,7.2
+Business Analyst,IBM India,Gurgaon,Junior (1-3 yrs),Retail,"Google Analytics, Azure, AWS",Yes,42,7.4
+Marketing Analyst,HCL Technologies,Gurgaon,Fresher (0-1 yr),Healthcare,"NumPy, Azure, Communication, Google Analytics",No,7,3.4
+Marketing Analyst,Flipkart,Chennai,Senior (5+ yrs),Banking & Finance,"JIRA, Data Visualization, Storytelling, Python, SQL",No,22,21.9
+Junior Data Analyst,Axis Bank,Pune,Junior (1-3 yrs),E-Commerce,"Power BI, Spark, AWS, Data Visualization, Communication, Statistics",No,39,5.7
+Product Analyst,Flipkart,Delhi,Mid (3-5 yrs),Banking & Finance,"SQL, Storytelling, R, NumPy, JIRA, Statistics",Yes,7,14.7
+Product Analyst,HCL Technologies,Pune,Junior (1-3 yrs),Banking & Finance,"Tableau, NumPy, Spark, Azure, Power BI, Communication",Yes,19,5.4
+Data Scientist,Nykaa,Bangalore,Senior (5+ yrs),IT Services,"JIRA, Storytelling, Azure, Communication, R, Pandas",No,37,26.7
+Marketing Analyst,Capgemini,Mumbai,Mid (3-5 yrs),EdTech,"Spark, Pandas, Azure",No,31,10.9
+Operations Analyst,Reliance Jio,Ahmedabad,Mid (3-5 yrs),E-Commerce,"Spark, ETL, NumPy, Data Visualization, SQL, Python, JIRA",No,45,17.5
+Data Analyst,IBM India,Chennai,Fresher (0-1 yr),EdTech,"Tableau, ETL, Communication",No,22,5.1
+Data Scientist,Zomato,Kolkata,Mid (3-5 yrs),Logistics,"Python, Data Visualization, Spark, Power BI, Hadoop, R, AWS",Hybrid,4,9.8
+Data Scientist,Axis Bank,Bangalore,Fresher (0-1 yr),Healthcare,"ETL, SQL, Statistics, JIRA, Google Analytics, Data Visualization",Hybrid,8,4.4
+Business Analyst,Nykaa,Hyderabad,Fresher (0-1 yr),Healthcare,"Communication, Excel, Storytelling, NumPy, Power BI",Yes,48,5.9
+Marketing Analyst,Byju's,Noida,Junior (1-3 yrs),Retail,"R, Python, JIRA, Data Visualization, SQL",Hybrid,38,7.6
+Product Analyst,Byju's,Hyderabad,Junior (1-3 yrs),E-Commerce,"Hadoop, Communication, Google Analytics, Storytelling, Pandas, Python",No,44,9.2
+Product Analyst,Razorpay,Bangalore,Fresher (0-1 yr),IT Services,"Communication, Python, Data Visualization, Spark, Google Analytics, R",No,33,5.7
+BI Analyst,Ola,Noida,Senior (5+ yrs),Healthcare,"Power BI, Azure, Storytelling, Machine Learning, Data Visualization, Statistics, Pandas",Hybrid,48,17.1
+Financial Analyst,Axis Bank,Gurgaon,Fresher (0-1 yr),Healthcare,"R, NumPy, ETL, Hadoop, Machine Learning",Hybrid,46,4.7
+Financial Analyst,TCS,Hyderabad,Senior (5+ yrs),Retail,"Excel, JIRA, Machine Learning, NumPy, Pandas, Python",No,4,23.8
+Financial Analyst,Byju's,Pune,Mid (3-5 yrs),EdTech,"Communication, Spark, Statistics, Excel, Power BI",Yes,45,15.7
+Business Analyst,Razorpay,Bangalore,Mid (3-5 yrs),Healthcare,"Data Visualization, Pandas, Excel, Google Analytics, Azure, Machine Learning, Power BI",Hybrid,14,16.5
+Operations Analyst,PhonePe,Bangalore,Mid (3-5 yrs),IT Services,"Excel, NumPy, Google Analytics, Communication, Hadoop",Hybrid,34,9.3
+Financial Analyst,Capgemini,Pune,Fresher (0-1 yr),Retail,"Data Visualization, Machine Learning, Hadoop, Spark, Pandas, NumPy, Azure",Yes,10,5.4
+Junior Data Analyst,TCS,Ahmedabad,Senior (5+ yrs),Healthcare,"JIRA, R, Python, Google Analytics, Communication, NumPy",Yes,36,27.4
+Senior Data Analyst,Accenture,Ahmedabad,Fresher (0-1 yr),Healthcare,"Machine Learning, AWS, Pandas, Hadoop, SQL, JIRA",Hybrid,48,6.0
+Data Scientist,Capgemini,Mumbai,Mid (3-5 yrs),Banking & Finance,"ETL, AWS, Tableau, Statistics",Hybrid,32,11.4
+Operations Analyst,PhonePe,Delhi,Junior (1-3 yrs),IT Services,"NumPy, Hadoop, Communication, Data Visualization",Hybrid,9,6.0
+Product Analyst,Nykaa,Pune,Mid (3-5 yrs),Healthcare,"Machine Learning, Hadoop, Pandas",Hybrid,15,14.1
+BI Analyst,Deloitte,Gurgaon,Mid (3-5 yrs),Logistics,"R, Pandas, Statistics, Spark, JIRA",Yes,44,13.4
+Senior Data Analyst,Amazon India,Kolkata,Junior (1-3 yrs),Logistics,"Tableau, Machine Learning, Python",No,41,7.5
+Business Analyst,Flipkart,Kolkata,Senior (5+ yrs),IT Services,"NumPy, AWS, Azure, Hadoop",Hybrid,10,34.2
+Data Scientist,TCS,Gurgaon,Mid (3-5 yrs),IT Services,"SQL, Machine Learning, R, Pandas, Tableau, Python",Hybrid,20,11.1
+Business Analyst,Accenture,Hyderabad,Senior (5+ yrs),Healthcare,"Pandas, JIRA, R, SQL, Azure",Hybrid,41,24.8
+Business Analyst,Tech Mahindra,Kolkata,Junior (1-3 yrs),Healthcare,"SQL, Excel, Data Visualization",Hybrid,20,7.4
+Junior Data Analyst,Reliance Jio,Gurgaon,Junior (1-3 yrs),IT Services,"NumPy, Excel, Hadoop, ETL, Communication, Machine Learning, JIRA",Hybrid,47,7.8
+Data Analyst,Razorpay,Pune,Junior (1-3 yrs),EdTech,"Statistics, Power BI, Google Analytics, Communication",No,1,8.7
+Data Analyst,Swiggy,Chennai,Fresher (0-1 yr),EdTech,"Communication, Google Analytics, Pandas, Azure, Excel, Power BI, NumPy",Yes,32,5.6
+Business Analyst,Wipro,Mumbai,Senior (5+ yrs),IT Services,"Data Visualization, Storytelling, Spark",Yes,40,33.5
+Financial Analyst,Tech Mahindra,Delhi,Fresher (0-1 yr),Retail,"Hadoop, Machine Learning, Tableau, Power BI",No,45,4.5
+Product Analyst,MakeMyTrip,Hyderabad,Junior (1-3 yrs),IT Services,"Machine Learning, Pandas, AWS, Hadoop",Yes,13,5.4
+Senior Data Analyst,Ola,Gurgaon,Mid (3-5 yrs),Retail,"Communication, SQL, Azure, ETL, Power BI",No,8,10.1
+Financial Analyst,TCS,Pune,Fresher (0-1 yr),EdTech,"JIRA, Hadoop, Azure, Statistics, Pandas",No,5,3.0
+Marketing Analyst,Wipro,Hyderabad,Mid (3-5 yrs),EdTech,"ETL, Azure, Storytelling, NumPy",Yes,1,13.7
+Product Analyst,MakeMyTrip,Bangalore,Fresher (0-1 yr),Logistics,"Storytelling, SQL, Communication",Hybrid,10,3.4
+Business Analyst,ICICI Bank,Delhi,Senior (5+ yrs),Banking & Finance,"Pandas, JIRA, Spark, NumPy",No,39,19.7
+Marketing Analyst,Cognizant,Pune,Mid (3-5 yrs),EdTech,"Power BI, JIRA, Statistics, AWS, Spark",No,8,16.8
+Financial Analyst,Swiggy,Ahmedabad,Fresher (0-1 yr),EdTech,"Spark, Pandas, NumPy",Hybrid,34,3.4
+Marketing Analyst,Zomato,Chennai,Junior (1-3 yrs),E-Commerce,"Statistics, NumPy, Machine Learning",Hybrid,7,9.4
+Business Analyst,Paytm,Hyderabad,Junior (1-3 yrs),Logistics,"AWS, Data Visualization, Hadoop, SQL",Yes,16,7.5
+Junior Data Analyst,Amazon India,Ahmedabad,Senior (5+ yrs),Logistics,"Excel, Azure, Communication, Hadoop, Data Visualization",No,14,27.9
+Data Analyst,Accenture,Noida,Senior (5+ yrs),Healthcare,"Power BI, R, Pandas, Google Analytics, Excel, Communication",Yes,7,26.0
+Senior Data Analyst,Flipkart,Noida,Fresher (0-1 yr),Banking & Finance,"Storytelling, JIRA, Data Visualization, AWS, Python, Spark",Hybrid,31,3.5
+Marketing Analyst,Deloitte,Kolkata,Junior (1-3 yrs),Banking & Finance,"R, AWS, Tableau",No,2,9.4
+Business Analyst,MakeMyTrip,Delhi,Mid (3-5 yrs),Retail,"Spark, Machine Learning, NumPy",Hybrid,33,12.8
+Junior Data Analyst,Amazon India,Mumbai,Fresher (0-1 yr),IT Services,"Communication, Excel, Power BI, R, Statistics",Hybrid,29,3.0
+Operations Analyst,Nykaa,Noida,Fresher (0-1 yr),Retail,"Tableau, Hadoop, Data Visualization, AWS, Azure, Communication, ETL",Yes,26,3.4
+Financial Analyst,Reliance Jio,Mumbai,Junior (1-3 yrs),E-Commerce,"Pandas, R, Data Visualization, NumPy",Yes,4,10.0
+Data Analyst,Byju's,Hyderabad,Senior (5+ yrs),Retail,"Excel, Hadoop, ETL, R",Yes,8,29.7
+Operations Analyst,Wipro,Hyderabad,Mid (3-5 yrs),Healthcare,"Spark, Communication, Statistics, Python, Google Analytics, AWS",Hybrid,20,16.9
+Business Analyst,Infosys,Gurgaon,Senior (5+ yrs),Banking & Finance,"Storytelling, Statistics, Excel, AWS, Machine Learning, Tableau, ETL",Yes,26,21.2
+Senior Data Analyst,Tech Mahindra,Delhi,Fresher (0-1 yr),EdTech,"SQL, Spark, Hadoop, Pandas",No,31,4.1
+Financial Analyst,Accenture,Chennai,Fresher (0-1 yr),Retail,"Excel, ETL, R, Power BI",Hybrid,12,6.1
+Junior Data Analyst,Nykaa,Bangalore,Junior (1-3 yrs),EdTech,"Google Analytics, Hadoop, AWS",Hybrid,16,7.8
+Financial Analyst,Byju's,Pune,Senior (5+ yrs),EdTech,"Power BI, Statistics, Machine Learning, JIRA, Pandas, Tableau",Yes,35,19.2
+Operations Analyst,Infosys,Noida,Fresher (0-1 yr),Healthcare,"Spark, Tableau, Hadoop, Machine Learning, Google Analytics, JIRA",Hybrid,17,4.0
+Operations Analyst,Razorpay,Chennai,Fresher (0-1 yr),Logistics,"Machine Learning, Hadoop, R, Communication, Tableau",No,40,5.4
+Product Analyst,Wipro,Gurgaon,Senior (5+ yrs),Logistics,"NumPy, Pandas, Statistics",Yes,44,31.3
+BI Analyst,Capgemini,Pune,Junior (1-3 yrs),Banking & Finance,"AWS, Statistics, ETL, Storytelling, Excel, Python, Communication",No,29,9.8
+Financial Analyst,Paytm,Delhi,Junior (1-3 yrs),Logistics,"Data Visualization, Spark, Machine Learning, Communication",Yes,43,6.9
+Product Analyst,Razorpay,Pune,Mid (3-5 yrs),Healthcare,"Storytelling, Pandas, Excel, Power BI, SQL, Python",Yes,40,14.4
+Operations Analyst,Zomato,Ahmedabad,Mid (3-5 yrs),IT Services,"Statistics, Azure, ETL, SQL, Python",Hybrid,8,13.2
+Marketing Analyst,HDFC Bank,Ahmedabad,Mid (3-5 yrs),IT Services,"Google Analytics, Spark, NumPy, Communication, ETL",Hybrid,28,10.9
+Operations Analyst,Byju's,Bangalore,Senior (5+ yrs),Retail,"JIRA, SQL, R, Pandas",Yes,10,22.3
+Financial Analyst,Paytm,Pune,Mid (3-5 yrs),Logistics,"Google Analytics, Azure, Data Visualization, AWS",No,41,15.7
+Junior Data Analyst,Zomato,Delhi,Mid (3-5 yrs),E-Commerce,"Excel, Data Visualization, Google Analytics, Hadoop",No,2,18.0
+Financial Analyst,Capgemini,Chennai,Senior (5+ yrs),IT Services,"Pandas, Power BI, Data Visualization, SQL",Yes,12,33.6
+Financial Analyst,Cognizant,Bangalore,Mid (3-5 yrs),Banking & Finance,"Azure, Pandas, ETL, Hadoop",No,10,10.5
+Data Scientist,Nykaa,Mumbai,Junior (1-3 yrs),Banking & Finance,"Pandas, Storytelling, Google Analytics, Data Visualization, Hadoop",No,48,8.6
+Business Analyst,ICICI Bank,Gurgaon,Fresher (0-1 yr),Retail,"Data Visualization, Azure, Tableau, AWS",Hybrid,43,4.7
+Data Scientist,HCL Technologies,Pune,Junior (1-3 yrs),Logistics,"Machine Learning, Tableau, SQL",Yes,16,6.6
+Operations Analyst,Flipkart,Hyderabad,Junior (1-3 yrs),Retail,"R, SQL, Azure, Pandas",Hybrid,11,5.9
+Financial Analyst,Zomato,Noida,Fresher (0-1 yr),Banking & Finance,"AWS, Hadoop, Power BI, Azure",No,33,4.6
+Business Analyst,HCL Technologies,Kolkata,Junior (1-3 yrs),EdTech,"AWS, ETL, JIRA",Hybrid,48,10.0
+Data Scientist,Deloitte,Pune,Fresher (0-1 yr),EdTech,"AWS, Azure, Power BI, Tableau, JIRA, R",No,45,3.0
+Financial Analyst,Razorpay,Mumbai,Junior (1-3 yrs),Banking & Finance,"Machine Learning, NumPy, R",No,35,8.5
+Senior Data Analyst,Razorpay,Pune,Senior (5+ yrs),Logistics,"Google Analytics, Pandas, Machine Learning, Python",No,13,19.8
+Data Scientist,Reliance Jio,Delhi,Senior (5+ yrs),IT Services,"Communication, R, Hadoop, Excel, Statistics, Spark, Azure",No,31,17.8
+Business Analyst,HDFC Bank,Ahmedabad,Mid (3-5 yrs),IT Services,"Data Visualization, Python, NumPy",No,31,13.1
+Data Scientist,ICICI Bank,Chennai,Senior (5+ yrs),E-Commerce,"Spark, ETL, Power BI",Hybrid,19,17.8
+BI Analyst,Razorpay,Chennai,Fresher (0-1 yr),Healthcare,"Tableau, Python, Excel, AWS, Azure",No,19,5.2
+BI Analyst,Deloitte,Hyderabad,Mid (3-5 yrs),E-Commerce,"Pandas, Python, Data Visualization, SQL, AWS, R",Hybrid,43,14.4
+Operations Analyst,Infosys,Gurgaon,Junior (1-3 yrs),Retail,"Tableau, Machine Learning, SQL, NumPy, Data Visualization, Spark, Python",No,7,5.3
+Senior Data Analyst,IBM India,Hyderabad,Senior (5+ yrs),Logistics,"JIRA, Spark, Excel",Yes,38,28.1
+Junior Data Analyst,Swiggy,Gurgaon,Mid (3-5 yrs),Logistics,"Pandas, R, Statistics, Spark, Excel, Python",Yes,32,17.0
+Junior Data Analyst,Byju's,Ahmedabad,Senior (5+ yrs),Logistics,"R, Spark, Communication, NumPy",No,24,22.6
+Business Analyst,Infosys,Delhi,Mid (3-5 yrs),Healthcare,"Power BI, NumPy, Azure, Hadoop",No,43,9.1
+Marketing Analyst,TCS,Noida,Fresher (0-1 yr),IT Services,"Storytelling, Tableau, ETL, Power BI, JIRA",No,18,3.7
+Junior Data Analyst,Cognizant,Kolkata,Fresher (0-1 yr),Banking & Finance,"Machine Learning, Azure, AWS, Spark, Communication, Tableau, NumPy",Yes,26,4.0
+Business Analyst,Deloitte,Gurgaon,Junior (1-3 yrs),EdTech,"Hadoop, Excel, Storytelling, ETL, R, Machine Learning, Data Visualization",Hybrid,25,9.6
+Senior Data Analyst,Cognizant,Kolkata,Mid (3-5 yrs),E-Commerce,"Excel, SQL, Google Analytics, Data Visualization, AWS, JIRA",Hybrid,45,12.8
+Marketing Analyst,Nykaa,Chennai,Fresher (0-1 yr),E-Commerce,"Tableau, Azure, Google Analytics, JIRA",Yes,7,5.6
+Marketing Analyst,Tech Mahindra,Chennai,Junior (1-3 yrs),IT Services,"NumPy, AWS, Hadoop",Hybrid,30,6.8
+BI Analyst,Nykaa,Ahmedabad,Mid (3-5 yrs),Retail,"Azure, NumPy, Tableau",No,27,15.9
+Operations Analyst,Capgemini,Mumbai,Junior (1-3 yrs),Healthcare,"NumPy, Statistics, Google Analytics, Hadoop",No,28,9.7
+Financial Analyst,Deloitte,Kolkata,Fresher (0-1 yr),E-Commerce,"Communication, SQL, JIRA, Excel, Storytelling",No,10,5.0
+Marketing Analyst,Amazon India,Gurgaon,Junior (1-3 yrs),Healthcare,"Power BI, Google Analytics, Hadoop, JIRA, Storytelling, Statistics, Data Visualization",Hybrid,2,8.2
+Data Analyst,HCL Technologies,Kolkata,Mid (3-5 yrs),Retail,"Pandas, ETL, Storytelling, Excel, Python, SQL, Communication",Hybrid,19,10.8
+Business Analyst,TCS,Delhi,Senior (5+ yrs),Retail,"R, Storytelling, Spark, SQL, Excel, Machine Learning",Hybrid,30,27.3
+Marketing Analyst,HDFC Bank,Mumbai,Fresher (0-1 yr),E-Commerce,"Data Visualization, Communication, AWS, JIRA, Pandas",No,8,3.4
+Marketing Analyst,MakeMyTrip,Ahmedabad,Mid (3-5 yrs),Logistics,"R, Machine Learning, Storytelling, Excel, Pandas",Hybrid,37,10.9
+Product Analyst,Zomato,Mumbai,Mid (3-5 yrs),Banking & Finance,"Hadoop, JIRA, Python",No,25,10.6
+Data Analyst,Accenture,Bangalore,Junior (1-3 yrs),IT Services,"Spark, Power BI, Python",Hybrid,1,7.8
+Product Analyst,Tech Mahindra,Kolkata,Fresher (0-1 yr),Retail,"Azure, AWS, Spark, Storytelling",Hybrid,38,3.4
+Marketing Analyst,Swiggy,Kolkata,Senior (5+ yrs),Healthcare,"Storytelling, ETL, Spark, NumPy, Excel",Yes,20,25.9
+Financial Analyst,Axis Bank,Chennai,Senior (5+ yrs),IT Services,"Tableau, Python, Machine Learning, Power BI",Yes,3,28.3
+Data Analyst,PhonePe,Ahmedabad,Junior (1-3 yrs),Logistics,"Machine Learning, Python, Storytelling",Yes,42,6.9
+BI Analyst,IBM India,Kolkata,Fresher (0-1 yr),Retail,"Tableau, Statistics, Hadoop, Machine Learning, Excel, Storytelling",Yes,42,5.0
+Data Scientist,ICICI Bank,Hyderabad,Senior (5+ yrs),Logistics,"Tableau, Azure, Hadoop, Python, Power BI, Excel",Hybrid,43,32.2
+Marketing Analyst,Axis Bank,Hyderabad,Fresher (0-1 yr),EdTech,"AWS, Azure, Communication, Python",Yes,40,5.1
+Marketing Analyst,Razorpay,Delhi,Junior (1-3 yrs),IT Services,"Communication, Statistics, Machine Learning, NumPy, Spark, Python",Hybrid,29,9.8
+Operations Analyst,Flipkart,Kolkata,Fresher (0-1 yr),Retail,"Python, Power BI, Hadoop, JIRA, Azure",No,3,5.6
+Operations Analyst,Wipro,Gurgaon,Fresher (0-1 yr),Healthcare,"Storytelling, JIRA, NumPy, SQL, Azure, Machine Learning, Statistics",Yes,23,5.2
+Product Analyst,Swiggy,Mumbai,Fresher (0-1 yr),Healthcare,"Communication, Azure, Statistics, SQL, Python, Machine Learning, NumPy",No,9,6.2
+Business Analyst,MakeMyTrip,Chennai,Junior (1-3 yrs),Logistics,"JIRA, Excel, Pandas, Hadoop, Azure",Hybrid,30,6.0
+Financial Analyst,Infosys,Ahmedabad,Junior (1-3 yrs),EdTech,"Azure, ETL, AWS",Hybrid,47,5.0
+Business Analyst,Zomato,Gurgaon,Junior (1-3 yrs),EdTech,"Python, R, NumPy, Machine Learning, Azure, Communication",Hybrid,30,6.2
+Data Scientist,TCS,Mumbai,Senior (5+ yrs),E-Commerce,"Statistics, Google Analytics, Storytelling, Data Visualization, AWS, Excel",Yes,18,20.1
+Marketing Analyst,Paytm,Kolkata,Mid (3-5 yrs),Healthcare,"Spark, Hadoop, ETL, Azure, R",Hybrid,1,17.4
+Financial Analyst,Wipro,Gurgaon,Fresher (0-1 yr),IT Services,"Machine Learning, NumPy, Excel, Azure, Tableau, JIRA, Power BI",No,11,5.2
+Data Analyst,Amazon India,Bangalore,Mid (3-5 yrs),EdTech,"Storytelling, Azure, Power BI, Hadoop",Hybrid,23,10.3
+Marketing Analyst,Reliance Jio,Gurgaon,Fresher (0-1 yr),Logistics,"NumPy, Statistics, Machine Learning, SQL, Python, R",Hybrid,33,4.7
+BI Analyst,Zomato,Hyderabad,Fresher (0-1 yr),IT Services,"ETL, R, Communication, Google Analytics, SQL",Yes,33,3.0
+Marketing Analyst,Reliance Jio,Kolkata,Fresher (0-1 yr),EdTech,"Data Visualization, Hadoop, Power BI",Hybrid,14,3.3
+Junior Data Analyst,Swiggy,Noida,Junior (1-3 yrs),Healthcare,"Statistics, Power BI, JIRA, Storytelling, Azure, Tableau, R",No,23,9.8
+Financial Analyst,PhonePe,Gurgaon,Senior (5+ yrs),Retail,"SQL, JIRA, Pandas, Tableau, Power BI",No,46,18.6
+Junior Data Analyst,Ola,Ahmedabad,Junior (1-3 yrs),EdTech,"AWS, Storytelling, Power BI",Yes,34,9.0
+Product Analyst,Zomato,Bangalore,Fresher (0-1 yr),Healthcare,"Storytelling, Power BI, JIRA",Yes,25,4.5
+Operations Analyst,Deloitte,Kolkata,Mid (3-5 yrs),EdTech,"Google Analytics, Power BI, R",No,33,13.2
+Data Analyst,HCL Technologies,Gurgaon,Fresher (0-1 yr),Retail,"Machine Learning, ETL, R",Hybrid,5,4.1
+Marketing Analyst,Swiggy,Pune,Fresher (0-1 yr),E-Commerce,"AWS, Google Analytics, Azure, Power BI, Tableau",No,12,5.7
+Product Analyst,TCS,Bangalore,Senior (5+ yrs),Logistics,"Data Visualization, Tableau, Power BI, Machine Learning, AWS",Yes,42,20.6
+Product Analyst,Amazon India,Noida,Fresher (0-1 yr),EdTech,"Python, Statistics, Azure, Data Visualization, NumPy, Pandas",Yes,10,4.4
+Data Analyst,Accenture,Pune,Junior (1-3 yrs),E-Commerce,"Excel, Pandas, ETL, Hadoop",No,23,8.9
+Senior Data Analyst,Byju's,Bangalore,Senior (5+ yrs),Logistics,"Statistics, Tableau, Google Analytics, Hadoop, Storytelling",Yes,42,29.4
+Marketing Analyst,Paytm,Chennai,Senior (5+ yrs),Retail,"Hadoop, Storytelling, Communication, AWS",No,47,22.7
+Junior Data Analyst,PhonePe,Ahmedabad,Senior (5+ yrs),E-Commerce,"ETL, Python, AWS, Tableau, Communication, Storytelling, Spark",No,37,31.9
+Financial Analyst,Flipkart,Mumbai,Fresher (0-1 yr),IT Services,"Excel, Storytelling, Data Visualization, JIRA, Spark, Azure, Communication",No,22,4.1
+Junior Data Analyst,Wipro,Bangalore,Senior (5+ yrs),Healthcare,"SQL, Spark, Storytelling, Tableau, JIRA, Data Visualization",Hybrid,30,17.5
+Data Analyst,Zomato,Noida,Senior (5+ yrs),Logistics,"NumPy, Hadoop, Spark, Storytelling, Data Visualization, AWS, R",Hybrid,46,27.5
+Data Scientist,HCL Technologies,Delhi,Junior (1-3 yrs),EdTech,"Pandas, Google Analytics, Tableau",Hybrid,9,6.1
+Marketing Analyst,IBM India,Mumbai,Mid (3-5 yrs),EdTech,"AWS, Machine Learning, JIRA, Storytelling, ETL, Google Analytics",No,18,10.5
+BI Analyst,Zomato,Kolkata,Junior (1-3 yrs),Banking & Finance,"Machine Learning, NumPy, Excel, SQL, Data Visualization, Storytelling",Yes,49,8.2
+Business Analyst,Reliance Jio,Bangalore,Junior (1-3 yrs),EdTech,"Google Analytics, JIRA, NumPy, Machine Learning",No,43,6.4
+Financial Analyst,Swiggy,Mumbai,Mid (3-5 yrs),Healthcare,"Google Analytics, JIRA, NumPy",Yes,20,10.3
+BI Analyst,ICICI Bank,Gurgaon,Mid (3-5 yrs),Healthcare,"Data Visualization, R, Python, JIRA, Pandas, Power BI, Hadoop",Hybrid,26,12.9
+BI Analyst,Wipro,Bangalore,Senior (5+ yrs),EdTech,"Hadoop, Google Analytics, Power BI, SQL, ETL",No,5,24.4
+Marketing Analyst,Swiggy,Pune,Junior (1-3 yrs),Logistics,"Google Analytics, ETL, Power BI, SQL, JIRA",No,42,8.5
+Data Scientist,Deloitte,Noida,Fresher (0-1 yr),Retail,"NumPy, Communication, Python, AWS, Data Visualization, Power BI",Hybrid,31,3.9
+Marketing Analyst,MakeMyTrip,Hyderabad,Junior (1-3 yrs),E-Commerce,"Communication, JIRA, Statistics, ETL, NumPy, Tableau, Data Visualization",No,25,5.6
+Data Scientist,Amazon India,Hyderabad,Mid (3-5 yrs),Banking & Finance,"Tableau, Spark, Google Analytics, Statistics, Power BI, R, Pandas",No,31,17.1
+Senior Data Analyst,IBM India,Noida,Senior (5+ yrs),Healthcare,"Machine Learning, ETL, AWS, Power BI, Tableau, Communication, Storytelling",No,39,28.4
+Financial Analyst,Amazon India,Delhi,Senior (5+ yrs),Banking & Finance,"Excel, Storytelling, SQL, Hadoop, Tableau, Statistics",Hybrid,43,19.4
+Data Analyst,Nykaa,Noida,Senior (5+ yrs),Banking & Finance,"AWS, Excel, ETL, Google Analytics",Yes,12,32.5
+Operations Analyst,Accenture,Gurgaon,Fresher (0-1 yr),Healthcare,"Communication, JIRA, Google Analytics, Spark, Pandas, NumPy",Yes,37,6.0
+Data Analyst,Wipro,Noida,Fresher (0-1 yr),Retail,"Hadoop, AWS, Azure, Storytelling, R, Excel",No,46,5.7
+BI Analyst,ICICI Bank,Noida,Mid (3-5 yrs),E-Commerce,"Tableau, Azure, AWS, Storytelling, Power BI, ETL, Communication",Yes,33,12.1
+Business Analyst,Ola,Mumbai,Senior (5+ yrs),E-Commerce,"Azure, SQL, R, ETL, Power BI, NumPy",Yes,50,24.1
+Senior Data Analyst,HCL Technologies,Kolkata,Junior (1-3 yrs),Healthcare,"Power BI, Storytelling, ETL, NumPy, SQL, Pandas",Yes,43,8.1
+Data Analyst,ICICI Bank,Hyderabad,Senior (5+ yrs),EdTech,"Power BI, ETL, NumPy, Communication",Yes,34,32.6
+Data Analyst,ICICI Bank,Delhi,Junior (1-3 yrs),Logistics,"NumPy, Azure, Python, Tableau, Google Analytics",No,17,9.6
+Business Analyst,Cognizant,Mumbai,Junior (1-3 yrs),Logistics,"Hadoop, SQL, NumPy, JIRA, Machine Learning, Excel, Storytelling",Hybrid,9,6.0
+Business Analyst,Nykaa,Hyderabad,Fresher (0-1 yr),EdTech,"Python, Power BI, JIRA, ETL, Excel, Hadoop",Hybrid,45,4.3
+Data Analyst,Flipkart,Kolkata,Senior (5+ yrs),Banking & Finance,"Hadoop, Azure, NumPy",Hybrid,21,33.7
+Product Analyst,Flipkart,Noida,Mid (3-5 yrs),Retail,"AWS, Data Visualization, Spark, Azure, Tableau, JIRA, Excel",No,38,18.0
+Junior Data Analyst,MakeMyTrip,Kolkata,Senior (5+ yrs),Logistics,"AWS, Storytelling, Communication, Tableau, Data Visualization, SQL, Spark",No,38,19.7
+Business Analyst,Ola,Hyderabad,Senior (5+ yrs),EdTech,"Storytelling, Hadoop, Spark, Statistics, JIRA, R, Pandas",Yes,23,22.9
+Junior Data Analyst,Tech Mahindra,Chennai,Mid (3-5 yrs),Retail,"AWS, Pandas, Excel",Hybrid,38,10.8
+Financial Analyst,IBM India,Bangalore,Mid (3-5 yrs),Banking & Finance,"Python, Communication, NumPy, Power BI",No,40,14.3
+Senior Data Analyst,HCL Technologies,Bangalore,Senior (5+ yrs),Logistics,"Excel, Machine Learning, JIRA, SQL, Communication, Spark, Statistics",Yes,26,22.2
+Product Analyst,Tech Mahindra,Pune,Mid (3-5 yrs),Logistics,"Python, Power BI, JIRA, R, Storytelling, Tableau, Spark",Hybrid,5,17.2
+Business Analyst,Capgemini,Gurgaon,Junior (1-3 yrs),EdTech,"Statistics, Communication, AWS, Excel",No,3,9.6
+Financial Analyst,Cognizant,Kolkata,Fresher (0-1 yr),Logistics,"Storytelling, Data Visualization, Spark, SQL, Azure, Hadoop, Python",Yes,2,4.8
+Data Scientist,Accenture,Noida,Mid (3-5 yrs),E-Commerce,"Hadoop, R, Storytelling, Python, Data Visualization",Hybrid,47,9.1
+BI Analyst,Byju's,Kolkata,Junior (1-3 yrs),E-Commerce,"Pandas, Excel, Power BI, JIRA, R, Tableau",Hybrid,11,6.4
+Junior Data Analyst,Tech Mahindra,Noida,Fresher (0-1 yr),E-Commerce,"R, Pandas, Excel, Tableau",No,15,5.3
+Product Analyst,Nykaa,Chennai,Mid (3-5 yrs),EdTech,"Hadoop, R, SQL, Data Visualization, Communication",Yes,7,14.8
+Product Analyst,Nykaa,Chennai,Fresher (0-1 yr),Logistics,"SQL, NumPy, Spark",Hybrid,43,4.4
+Senior Data Analyst,Ola,Gurgaon,Senior (5+ yrs),Banking & Finance,"Data Visualization, Tableau, Hadoop",No,7,34.9
+Junior Data Analyst,Wipro,Delhi,Mid (3-5 yrs),Logistics,"Pandas, Spark, Power BI, SQL, Machine Learning",Yes,32,15.3
+Data Scientist,Accenture,Hyderabad,Junior (1-3 yrs),Banking & Finance,"Storytelling, Communication, Statistics, Azure",Hybrid,44,6.4
+Senior Data Analyst,Nykaa,Pune,Junior (1-3 yrs),Logistics,"Google Analytics, Spark, Power BI, Pandas, SQL, R, Statistics",No,31,5.3
+Product Analyst,Ola,Chennai,Fresher (0-1 yr),E-Commerce,"Hadoop, Excel, Azure, Python, Storytelling, Data Visualization, Power BI",Hybrid,21,5.0
+Data Analyst,HDFC Bank,Mumbai,Junior (1-3 yrs),Logistics,"Pandas, JIRA, Power BI",Yes,49,5.2
+Data Scientist,Paytm,Bangalore,Junior (1-3 yrs),Logistics,"JIRA, Tableau, NumPy, Hadoop",No,15,8.6
+Product Analyst,Nykaa,Noida,Mid (3-5 yrs),E-Commerce,"Excel, Google Analytics, Machine Learning, Tableau, ETL, Pandas",No,50,13.2
+Marketing Analyst,Reliance Jio,Ahmedabad,Fresher (0-1 yr),EdTech,"Statistics, JIRA, Hadoop, AWS",Hybrid,47,5.1
+Marketing Analyst,Nykaa,Bangalore,Junior (1-3 yrs),EdTech,"Python, AWS, NumPy",Yes,16,7.3
+Business Analyst,Reliance Jio,Chennai,Senior (5+ yrs),Logistics,"Python, SQL, Azure, Pandas",No,7,19.3
+Senior Data Analyst,Paytm,Chennai,Mid (3-5 yrs),Logistics,"Pandas, Spark, ETL, Machine Learning, NumPy, Python, Excel",Yes,12,15.7
+Product Analyst,Razorpay,Mumbai,Junior (1-3 yrs),Banking & Finance,"Communication, Excel, NumPy, Storytelling, Spark, ETL, SQL",Yes,47,8.2
+Business Analyst,Reliance Jio,Mumbai,Junior (1-3 yrs),Logistics,"JIRA, Pandas, Hadoop, Machine Learning",Hybrid,25,7.7
+Senior Data Analyst,Ola,Ahmedabad,Junior (1-3 yrs),IT Services,"Google Analytics, Data Visualization, Communication, Pandas, AWS, Tableau, Power BI",Yes,49,5.5
+Data Scientist,Ola,Bangalore,Mid (3-5 yrs),Retail,"Data Visualization, Machine Learning, AWS, Storytelling, Python",Hybrid,27,12.3
+Product Analyst,Byju's,Gurgaon,Mid (3-5 yrs),Banking & Finance,"Python, Azure, Storytelling, JIRA",Yes,5,14.5
+Senior Data Analyst,Amazon India,Ahmedabad,Fresher (0-1 yr),EdTech,"Hadoop, JIRA, Azure, Spark",Hybrid,4,5.5
+Product Analyst,Ola,Bangalore,Mid (3-5 yrs),Healthcare,"Excel, Storytelling, JIRA, Python, AWS, Data Visualization, SQL",Hybrid,40,15.4
+Data Analyst,Amazon India,Chennai,Junior (1-3 yrs),EdTech,"Spark, ETL, Storytelling, R, Python",No,17,5.9
+BI Analyst,Tech Mahindra,Bangalore,Junior (1-3 yrs),EdTech,"AWS, ETL, Machine Learning",Hybrid,8,9.3
+Operations Analyst,Paytm,Noida,Senior (5+ yrs),Logistics,"Python, Statistics, Storytelling, Pandas, ETL, Power BI",No,3,17.6
+Marketing Analyst,Wipro,Gurgaon,Mid (3-5 yrs),Logistics,"Storytelling, NumPy, Statistics",Hybrid,48,16.5
+BI Analyst,HDFC Bank,Chennai,Junior (1-3 yrs),Healthcare,"Azure, ETL, SQL, Pandas",Yes,5,5.6
+Senior Data Analyst,Paytm,Kolkata,Senior (5+ yrs),Logistics,"Storytelling, Machine Learning, Python, Communication, Spark, SQL",No,29,24.4
+Operations Analyst,Ola,Chennai,Fresher (0-1 yr),Logistics,"Communication, Google Analytics, Azure, R, Machine Learning",Yes,49,5.5
+BI Analyst,Deloitte,Bangalore,Fresher (0-1 yr),Retail,"Storytelling, Communication, R, Excel, Tableau, ETL, SQL",Yes,24,4.1
+Data Analyst,Capgemini,Hyderabad,Fresher (0-1 yr),EdTech,"Pandas, Communication, Statistics, Google Analytics",Yes,39,6.0
+Marketing Analyst,Reliance Jio,Kolkata,Junior (1-3 yrs),Banking & Finance,"Machine Learning, Python, JIRA, Pandas, AWS",Yes,41,6.4
+Financial Analyst,Infosys,Pune,Junior (1-3 yrs),Retail,"Hadoop, SQL, Data Visualization",No,2,9.3
+Senior Data Analyst,Flipkart,Chennai,Fresher (0-1 yr),Healthcare,"Hadoop, Pandas, Power BI, Google Analytics, AWS, Statistics",Yes,12,5.3
+Marketing Analyst,ICICI Bank,Ahmedabad,Senior (5+ yrs),Retail,"Google Analytics, SQL, Statistics, Communication, Pandas",Hybrid,21,30.0
+BI Analyst,Wipro,Delhi,Fresher (0-1 yr),IT Services,"JIRA, AWS, Data Visualization, Python, Spark, Power BI",Hybrid,7,4.2
+Financial Analyst,Deloitte,Ahmedabad,Mid (3-5 yrs),EdTech,"Excel, Communication, Python, Statistics, Hadoop",Yes,45,15.0
+Junior Data Analyst,Paytm,Ahmedabad,Junior (1-3 yrs),IT Services,"Statistics, Machine Learning, R",Yes,29,9.5
+Marketing Analyst,Paytm,Delhi,Junior (1-3 yrs),IT Services,"NumPy, Excel, Power BI, Python, Azure",Hybrid,25,9.5
+Junior Data Analyst,Infosys,Chennai,Mid (3-5 yrs),Healthcare,"Python, Communication, Data Visualization, Pandas, Statistics, SQL",Hybrid,9,10.5
+Operations Analyst,Infosys,Pune,Junior (1-3 yrs),E-Commerce,"Statistics, Data Visualization, SQL, Communication, Storytelling, JIRA",Hybrid,41,9.9
+Data Scientist,Flipkart,Hyderabad,Mid (3-5 yrs),IT Services,"Storytelling, AWS, Power BI, Communication, JIRA, SQL, Python",Yes,37,15.5
+Product Analyst,Deloitte,Kolkata,Fresher (0-1 yr),Logistics,"Spark, Data Visualization, Excel",Hybrid,36,4.3
+Operations Analyst,Wipro,Chennai,Fresher (0-1 yr),IT Services,"SQL, AWS, Storytelling, NumPy",No,13,3.0
+Financial Analyst,Ola,Noida,Junior (1-3 yrs),E-Commerce,"Hadoop, Excel, Power BI, SQL, Google Analytics, Tableau, Storytelling",Yes,13,8.3
+Financial Analyst,Wipro,Pune,Junior (1-3 yrs),Banking & Finance,"Spark, Power BI, Hadoop, Statistics, Python, Google Analytics",Hybrid,17,7.1
+Marketing Analyst,Byju's,Pune,Fresher (0-1 yr),Retail,"AWS, Hadoop, Power BI, Data Visualization, Python, Statistics",Hybrid,32,5.3
+Product Analyst,Byju's,Bangalore,Mid (3-5 yrs),Retail,"Data Visualization, Communication, Machine Learning, Power BI, Google Analytics, Python, NumPy",Yes,29,9.6
+Data Scientist,ICICI Bank,Kolkata,Fresher (0-1 yr),E-Commerce,"Communication, Machine Learning, Tableau",No,44,3.7
+BI Analyst,Swiggy,Ahmedabad,Mid (3-5 yrs),Banking & Finance,"Pandas, ETL, Hadoop, Azure, AWS, Excel, Power BI",Hybrid,19,15.9
+Business Analyst,Paytm,Hyderabad,Senior (5+ yrs),Logistics,"SQL, Storytelling, Tableau, NumPy",Hybrid,15,18.8
+Senior Data Analyst,Reliance Jio,Noida,Fresher (0-1 yr),Banking & Finance,"Hadoop, Google Analytics, ETL, NumPy, Tableau, Excel, Statistics",No,13,3.9
+Data Scientist,Axis Bank,Kolkata,Mid (3-5 yrs),E-Commerce,"Storytelling, Data Visualization, NumPy, ETL, Python",Yes,48,10.6
+Financial Analyst,MakeMyTrip,Gurgaon,Mid (3-5 yrs),Retail,"Communication, Tableau, SQL, Statistics, JIRA, Machine Learning, R",Yes,11,9.4
+Business Analyst,Infosys,Bangalore,Mid (3-5 yrs),IT Services,"Machine Learning, Storytelling, Excel, Data Visualization",Hybrid,28,14.5
+Financial Analyst,Paytm,Delhi,Junior (1-3 yrs),Logistics,"Azure, AWS, Data Visualization, JIRA",Yes,34,8.4
+Product Analyst,Reliance Jio,Noida,Junior (1-3 yrs),Retail,"NumPy, Hadoop, Data Visualization, R, Power BI, Statistics, Spark",No,13,7.0
+Product Analyst,Ola,Kolkata,Senior (5+ yrs),Banking & Finance,"Azure, Statistics, Python",Yes,6,28.1
+Marketing Analyst,Cognizant,Delhi,Senior (5+ yrs),E-Commerce,"Statistics, AWS, Machine Learning, Storytelling",Hybrid,38,32.0
+BI Analyst,Amazon India,Noida,Mid (3-5 yrs),Retail,"Data Visualization, Spark, Machine Learning, Communication, R, Hadoop",Yes,2,17.5
+Data Analyst,Byju's,Noida,Junior (1-3 yrs),EdTech,"ETL, Python, Excel",Hybrid,41,6.6
+Financial Analyst,HDFC Bank,Hyderabad,Mid (3-5 yrs),IT Services,"Python, JIRA, Power BI, Tableau, NumPy",No,43,14.0
+BI Analyst,ICICI Bank,Pune,Junior (1-3 yrs),Banking & Finance,"Machine Learning, Communication, ETL, SQL, Python, Power BI",No,7,5.6
+Junior Data Analyst,Tech Mahindra,Noida,Junior (1-3 yrs),Retail,"NumPy, R, Statistics, Pandas",Hybrid,14,7.3
+Financial Analyst,Infosys,Hyderabad,Senior (5+ yrs),Healthcare,"Data Visualization, JIRA, Statistics, R",Yes,3,31.9
+Business Analyst,Paytm,Kolkata,Mid (3-5 yrs),IT Services,"Python, R, Pandas, Power BI",No,9,9.8
+BI Analyst,HCL Technologies,Gurgaon,Mid (3-5 yrs),EdTech,"Tableau, Spark, Power BI",Yes,1,17.4
+Data Scientist,Amazon India,Chennai,Junior (1-3 yrs),Retail,"Machine Learning, NumPy, AWS, Statistics, ETL",Yes,24,5.4
+BI Analyst,PhonePe,Chennai,Junior (1-3 yrs),Logistics,"R, Google Analytics, Hadoop, Excel, Power BI",Hybrid,50,9.6
+Data Scientist,Wipro,Pune,Fresher (0-1 yr),Logistics,"Tableau, Machine Learning, Communication, Spark",Yes,27,3.6
+Product Analyst,ICICI Bank,Hyderabad,Senior (5+ yrs),EdTech,"Data Visualization, Hadoop, Statistics, SQL, Machine Learning",Hybrid,37,17.6
+Data Scientist,Ola,Gurgaon,Fresher (0-1 yr),Retail,"NumPy, Tableau, Data Visualization, Statistics, SQL, JIRA, Spark",Hybrid,35,4.1
+Operations Analyst,Accenture,Bangalore,Junior (1-3 yrs),E-Commerce,"Tableau, Google Analytics, Azure, Machine Learning, Excel",Yes,5,8.1
+Data Analyst,Infosys,Kolkata,Mid (3-5 yrs),Logistics,"Storytelling, Excel, R, Google Analytics, Spark, Azure",Yes,22,9.2
+Operations Analyst,IBM India,Noida,Junior (1-3 yrs),Logistics,"ETL, Azure, Google Analytics, AWS, R, Communication, Storytelling",No,12,5.8
+Business Analyst,PhonePe,Noida,Fresher (0-1 yr),EdTech,"Google Analytics, Azure, Communication, JIRA, Pandas",Hybrid,44,3.0
+Senior Data Analyst,Paytm,Kolkata,Senior (5+ yrs),Healthcare,"Spark, Communication, SQL, Machine Learning, Statistics, AWS, Power BI",Yes,47,28.1
+Business Analyst,Paytm,Kolkata,Junior (1-3 yrs),E-Commerce,"Statistics, Spark, Machine Learning, NumPy, Hadoop, AWS",Yes,47,7.3
+Marketing Analyst,ICICI Bank,Hyderabad,Mid (3-5 yrs),EdTech,"Communication, R, ETL, Pandas, Excel, Azure",Yes,42,16.9
+Financial Analyst,ICICI Bank,Noida,Fresher (0-1 yr),Retail,"NumPy, AWS, Google Analytics",No,34,6.3
+Operations Analyst,Byju's,Chennai,Junior (1-3 yrs),Retail,"Statistics, Communication, SQL, AWS, Data Visualization",No,32,6.5
+Business Analyst,Accenture,Pune,Mid (3-5 yrs),Retail,"AWS, Storytelling, Hadoop, JIRA, ETL, Spark",Yes,13,15.1
+Financial Analyst,Flipkart,Chennai,Mid (3-5 yrs),Logistics,"Data Visualization, Pandas, Spark, Python, R, Statistics",Yes,14,17.5
+Financial Analyst,Flipkart,Delhi,Junior (1-3 yrs),Banking & Finance,"Pandas, Excel, ETL, Communication",Yes,37,9.3
+Financial Analyst,Deloitte,Mumbai,Fresher (0-1 yr),Logistics,"Google Analytics, Storytelling, JIRA, Excel, Pandas",No,31,5.6
+Data Analyst,Swiggy,Gurgaon,Mid (3-5 yrs),Logistics,"Power BI, Storytelling, Excel, ETL",No,33,15.6
+Senior Data Analyst,Zomato,Delhi,Senior (5+ yrs),IT Services,"JIRA, Machine Learning, Data Visualization",Yes,23,21.9
+Data Scientist,Nykaa,Mumbai,Fresher (0-1 yr),Healthcare,"Data Visualization, Pandas, NumPy, Communication",No,23,4.3
+Business Analyst,Amazon India,Kolkata,Mid (3-5 yrs),Healthcare,"Storytelling, Tableau, JIRA, Pandas",Yes,40,11.6
+Marketing Analyst,Razorpay,Chennai,Junior (1-3 yrs),Healthcare,"NumPy, Storytelling, ETL",No,36,6.4
+Business Analyst,Byju's,Bangalore,Junior (1-3 yrs),Retail,"Spark, Communication, Python, Azure, Tableau, Hadoop",Yes,9,7.8
+Data Scientist,Infosys,Pune,Fresher (0-1 yr),Logistics,"Statistics, Storytelling, Machine Learning, Azure, Communication, Pandas",No,5,4.4
+Product Analyst,Ola,Noida,Mid (3-5 yrs),Banking & Finance,"JIRA, AWS, Communication, Data Visualization, Excel, R, Hadoop",Yes,29,16.5
+BI Analyst,Ola,Ahmedabad,Mid (3-5 yrs),EdTech,"Hadoop, Storytelling, Machine Learning, AWS",No,28,11.5
+Financial Analyst,Amazon India,Ahmedabad,Fresher (0-1 yr),IT Services,"JIRA, Python, ETL, Tableau, Google Analytics, Azure",Hybrid,41,3.7
+Operations Analyst,Wipro,Bangalore,Fresher (0-1 yr),IT Services,"Azure, ETL, Data Visualization",Yes,25,6.4
+Operations Analyst,Amazon India,Mumbai,Fresher (0-1 yr),Logistics,"Hadoop, Storytelling, Spark, NumPy",Yes,5,3.9
+BI Analyst,HCL Technologies,Chennai,Senior (5+ yrs),Banking & Finance,"Communication, Python, SQL, Tableau, Google Analytics",Hybrid,37,24.4
+Marketing Analyst,Axis Bank,Ahmedabad,Senior (5+ yrs),E-Commerce,"Communication, Storytelling, Spark, JIRA, Machine Learning",No,6,17.8
+Operations Analyst,Razorpay,Kolkata,Senior (5+ yrs),EdTech,"Excel, JIRA, Spark, Machine Learning, Azure, SQL",No,9,22.7
+BI Analyst,Swiggy,Chennai,Junior (1-3 yrs),Retail,"Communication, AWS, NumPy, Excel, R",No,34,6.8
+BI Analyst,Deloitte,Gurgaon,Senior (5+ yrs),Retail,"JIRA, R, SQL",Hybrid,20,30.7
+Financial Analyst,Capgemini,Chennai,Senior (5+ yrs),Retail,"Azure, Python, R, Machine Learning, Excel, AWS, Google Analytics",No,7,25.9
+Data Scientist,MakeMyTrip,Delhi,Senior (5+ yrs),Retail,"Machine Learning, Statistics, NumPy, Google Analytics, Excel",Yes,8,31.8
+Data Scientist,Razorpay,Pune,Mid (3-5 yrs),Healthcare,"SQL, ETL, Google Analytics, Python, R, Azure",Yes,32,15.2
+Data Scientist,Byju's,Bangalore,Senior (5+ yrs),Retail,"Spark, R, Power BI, Tableau, Hadoop, Statistics",No,15,19.2
+Business Analyst,Tech Mahindra,Chennai,Fresher (0-1 yr),E-Commerce,"Spark, Machine Learning, Tableau",Yes,4,6.3
+Senior Data Analyst,Amazon India,Chennai,Senior (5+ yrs),Logistics,"NumPy, Hadoop, Azure, R",Yes,39,27.1
+Business Analyst,Wipro,Mumbai,Junior (1-3 yrs),Logistics,"Communication, NumPy, Machine Learning, Google Analytics, AWS, Tableau, Power BI",Hybrid,35,5.8
+BI Analyst,Reliance Jio,Gurgaon,Junior (1-3 yrs),Logistics,"Tableau, AWS, Excel",Hybrid,22,7.8
+Senior Data Analyst,Razorpay,Chennai,Senior (5+ yrs),Logistics,"Storytelling, Statistics, Google Analytics, Data Visualization, Azure, Communication",Hybrid,2,34.9
+Operations Analyst,Tech Mahindra,Ahmedabad,Fresher (0-1 yr),Banking & Finance,"Communication, SQL, Excel, NumPy, AWS, R",Hybrid,15,4.5
+Junior Data Analyst,Flipkart,Chennai,Fresher (0-1 yr),Retail,"Spark, R, Hadoop, Statistics, Communication",Yes,19,5.3
+Business Analyst,Deloitte,Noida,Mid (3-5 yrs),EdTech,"Hadoop, AWS, Spark, R, Power BI, Machine Learning, ETL",Yes,17,15.1
+Business Analyst,Ola,Chennai,Fresher (0-1 yr),EdTech,"Statistics, R, Pandas",No,25,4.0
+Financial Analyst,PhonePe,Kolkata,Mid (3-5 yrs),Logistics,"NumPy, Excel, Machine Learning, Azure, Hadoop, Spark, Pandas",No,46,12.1
+Data Scientist,Razorpay,Delhi,Mid (3-5 yrs),EdTech,"ETL, Excel, Power BI",No,23,17.7
+Product Analyst,Swiggy,Pune,Fresher (0-1 yr),E-Commerce,"Data Visualization, Hadoop, AWS, R, Pandas, Power BI, Azure",Hybrid,5,4.9
+Operations Analyst,Tech Mahindra,Noida,Fresher (0-1 yr),Retail,"AWS, Python, Excel",Hybrid,11,5.6
+Product Analyst,Byju's,Gurgaon,Mid (3-5 yrs),Logistics,"Spark, Data Visualization, Storytelling, Machine Learning, JIRA, Python",Hybrid,19,11.4
+Data Scientist,PhonePe,Kolkata,Junior (1-3 yrs),E-Commerce,"Pandas, Power BI, Tableau",Yes,5,7.6
+Senior Data Analyst,Wipro,Delhi,Senior (5+ yrs),Banking & Finance,"AWS, Azure, Storytelling, Excel, Google Analytics",Yes,35,20.0
+Business Analyst,Deloitte,Pune,Junior (1-3 yrs),Healthcare,"Statistics, AWS, Tableau, Azure, Pandas, Hadoop, Excel",Hybrid,37,6.1
+Data Scientist,Axis Bank,Pune,Fresher (0-1 yr),E-Commerce,"Python, Power BI, R, NumPy",Hybrid,16,3.9
+Business Analyst,Swiggy,Delhi,Fresher (0-1 yr),Logistics,"JIRA, Spark, R",No,34,6.2
+BI Analyst,Ola,Kolkata,Mid (3-5 yrs),IT Services,"Python, Pandas, Tableau",Yes,40,13.7
+Junior Data Analyst,Amazon India,Gurgaon,Senior (5+ yrs),E-Commerce,"ETL, R, Machine Learning, SQL, JIRA, Statistics",Yes,33,28.0
+Data Scientist,Tech Mahindra,Gurgaon,Fresher (0-1 yr),E-Commerce,"Google Analytics, Power BI, Spark",Hybrid,20,4.7
+Data Analyst,Razorpay,Mumbai,Senior (5+ yrs),Logistics,"AWS, SQL, Python, Communication, Spark",Yes,26,24.9
+Operations Analyst,PhonePe,Gurgaon,Junior (1-3 yrs),EdTech,"Statistics, ETL, Storytelling, Machine Learning",Hybrid,40,6.6
+Junior Data Analyst,MakeMyTrip,Delhi,Senior (5+ yrs),IT Services,"Python, Hadoop, Storytelling",Yes,4,26.7
+Data Scientist,Razorpay,Chennai,Junior (1-3 yrs),Healthcare,"Data Visualization, Machine Learning, Excel",Hybrid,35,8.3
+Data Analyst,ICICI Bank,Delhi,Fresher (0-1 yr),IT Services,"Power BI, R, Communication, SQL",Hybrid,45,6.2
+Data Analyst,Wipro,Delhi,Fresher (0-1 yr),Healthcare,"Google Analytics, Power BI, Data Visualization, JIRA, Machine Learning, NumPy",Yes,8,4.1
+Operations Analyst,Ola,Noida,Mid (3-5 yrs),Banking & Finance,"JIRA, Spark, Hadoop, Power BI",Yes,38,9.9
+Data Scientist,Razorpay,Bangalore,Junior (1-3 yrs),EdTech,"Machine Learning, Power BI, ETL, Data Visualization",No,31,6.8
+Junior Data Analyst,Zomato,Ahmedabad,Junior (1-3 yrs),Banking & Finance,"Python, Spark, Data Visualization, Storytelling",Yes,17,9.5
+Financial Analyst,ICICI Bank,Chennai,Senior (5+ yrs),E-Commerce,"Machine Learning, AWS, Statistics, Excel, Pandas, Data Visualization",Yes,42,19.0
+Senior Data Analyst,Flipkart,Hyderabad,Mid (3-5 yrs),E-Commerce,"ETL, SQL, Excel, Machine Learning, Hadoop, Tableau, Spark",Yes,2,13.3
+Data Analyst,TCS,Bangalore,Mid (3-5 yrs),EdTech,"Azure, Power BI, JIRA, R, Pandas, SQL, NumPy",No,3,12.0
+Product Analyst,Flipkart,Pune,Mid (3-5 yrs),Retail,"Spark, Tableau, Data Visualization, R, JIRA",Yes,22,17.1
+Data Scientist,Deloitte,Kolkata,Junior (1-3 yrs),Banking & Finance,"Excel, Data Visualization, Python, AWS, Spark, Pandas",Yes,27,5.9
+Financial Analyst,Accenture,Ahmedabad,Fresher (0-1 yr),IT Services,"Google Analytics, Communication, Python, Statistics",Yes,17,4.3
+Financial Analyst,Cognizant,Ahmedabad,Fresher (0-1 yr),Banking & Finance,"Storytelling, Power BI, NumPy",Hybrid,13,3.6
+Financial Analyst,Amazon India,Noida,Senior (5+ yrs),Healthcare,"Hadoop, Statistics, Excel, SQL",Hybrid,22,26.4
+BI Analyst,Nykaa,Pune,Senior (5+ yrs),Logistics,"ETL, Azure, NumPy, Machine Learning",Yes,49,30.3
+Junior Data Analyst,HDFC Bank,Hyderabad,Junior (1-3 yrs),E-Commerce,"Spark, Machine Learning, SQL, Statistics",No,4,7.2
+Data Analyst,Cognizant,Chennai,Fresher (0-1 yr),IT Services,"AWS, Data Visualization, Tableau, Pandas, Communication, Azure, Spark",No,9,5.2
+Data Scientist,IBM India,Delhi,Mid (3-5 yrs),E-Commerce,"Google Analytics, Hadoop, NumPy",No,14,14.3
+Financial Analyst,Tech Mahindra,Chennai,Fresher (0-1 yr),Banking & Finance,"Statistics, Data Visualization, Communication",Yes,36,5.4
+Senior Data Analyst,Tech Mahindra,Noida,Senior (5+ yrs),EdTech,"Machine Learning, JIRA, SQL, Statistics",Yes,47,29.9
+Senior Data Analyst,Wipro,Ahmedabad,Fresher (0-1 yr),IT Services,"Storytelling, Spark, Google Analytics, Data Visualization",No,22,4.7
+Marketing Analyst,Deloitte,Chennai,Mid (3-5 yrs),Retail,"AWS, Python, Excel, Azure",Hybrid,49,11.2
+Financial Analyst,HCL Technologies,Gurgaon,Senior (5+ yrs),Logistics,"Machine Learning, SQL, Tableau",Hybrid,43,29.7
+Senior Data Analyst,ICICI Bank,Kolkata,Junior (1-3 yrs),EdTech,"Tableau, Excel, R, Machine Learning",Hybrid,4,8.0
+Product Analyst,Nykaa,Delhi,Fresher (0-1 yr),Retail,"Google Analytics, Excel, Hadoop, AWS",No,16,4.7
+Data Analyst,Axis Bank,Pune,Fresher (0-1 yr),Logistics,"R, Machine Learning, Statistics, Hadoop, Storytelling",No,32,4.4
+Junior Data Analyst,MakeMyTrip,Gurgaon,Junior (1-3 yrs),Banking & Finance,"Statistics, NumPy, Communication, AWS, Machine Learning, Tableau, Hadoop",Hybrid,5,5.2
+Junior Data Analyst,ICICI Bank,Gurgaon,Junior (1-3 yrs),Healthcare,"Excel, ETL, Spark, JIRA, R, Statistics",No,37,9.6
+Product Analyst,Infosys,Gurgaon,Mid (3-5 yrs),Retail,"Hadoop, Google Analytics, Storytelling, Tableau, Azure, Python",No,40,11.1
+Data Scientist,Razorpay,Hyderabad,Fresher (0-1 yr),EdTech,"Hadoop, Excel, NumPy, Tableau, R, Google Analytics",Hybrid,45,6.3
+Senior Data Analyst,Amazon India,Delhi,Senior (5+ yrs),EdTech,"AWS, NumPy, Storytelling, Communication, Spark, Pandas",No,49,33.6
+Business Analyst,Nykaa,Hyderabad,Fresher (0-1 yr),Banking & Finance,"Azure, Excel, Data Visualization, Tableau, Storytelling, Power BI, Communication",Yes,3,3.4
+Senior Data Analyst,Byju's,Hyderabad,Mid (3-5 yrs),IT Services,"Python, Storytelling, Google Analytics, ETL",No,23,12.8
+Operations Analyst,Tech Mahindra,Kolkata,Senior (5+ yrs),Retail,"Spark, Hadoop, Storytelling, ETL, JIRA, Statistics",Yes,5,21.1
+Marketing Analyst,Byju's,Gurgaon,Senior (5+ yrs),Logistics,"Communication, Excel, Hadoop, SQL, Power BI",Yes,27,27.0
+Product Analyst,Swiggy,Hyderabad,Senior (5+ yrs),Banking & Finance,"Communication, R, Machine Learning, Hadoop, Pandas, Spark",Hybrid,39,27.3
+Product Analyst,Tech Mahindra,Kolkata,Mid (3-5 yrs),EdTech,"Google Analytics, Azure, ETL, SQL, Spark",Hybrid,48,10.5
+Product Analyst,Accenture,Bangalore,Fresher (0-1 yr),E-Commerce,"Statistics, Storytelling, Azure, SQL, ETL, Data Visualization",No,40,3.6
+Business Analyst,Accenture,Kolkata,Senior (5+ yrs),E-Commerce,"Tableau, Pandas, AWS",No,6,21.7
+Operations Analyst,PhonePe,Bangalore,Junior (1-3 yrs),EdTech,"Pandas, Statistics, R, Python",Yes,36,8.0
+Marketing Analyst,Nykaa,Mumbai,Mid (3-5 yrs),IT Services,"Excel, Spark, Communication",Hybrid,31,15.3
+Financial Analyst,Byju's,Bangalore,Senior (5+ yrs),Retail,"Excel, Google Analytics, Machine Learning, Hadoop, R, Communication, JIRA",Hybrid,9,26.0
+Financial Analyst,Accenture,Bangalore,Mid (3-5 yrs),EdTech,"NumPy, Google Analytics, JIRA, Spark, Storytelling",No,18,17.6
+Data Scientist,MakeMyTrip,Noida,Junior (1-3 yrs),E-Commerce,"Excel, Power BI, ETL, Tableau, Pandas, JIRA",Yes,47,7.8
+Product Analyst,Paytm,Hyderabad,Senior (5+ yrs),Healthcare,"Spark, NumPy, Python, R",Yes,3,18.7
+Marketing Analyst,Infosys,Chennai,Fresher (0-1 yr),EdTech,"Python, Power BI, Excel, Hadoop, Google Analytics, Data Visualization",Hybrid,7,5.3
+Data Scientist,Zomato,Mumbai,Mid (3-5 yrs),EdTech,"Hadoop, R, Communication, ETL, JIRA",No,3,16.1
+Product Analyst,Flipkart,Hyderabad,Senior (5+ yrs),Healthcare,"Machine Learning, Azure, R, Google Analytics",No,32,17.0
+Product Analyst,Razorpay,Bangalore,Senior (5+ yrs),IT Services,"AWS, Communication, Machine Learning",No,33,17.7
+Data Analyst,MakeMyTrip,Chennai,Mid (3-5 yrs),Banking & Finance,"Machine Learning, SQL, R, Storytelling",No,15,16.1
+Product Analyst,IBM India,Kolkata,Junior (1-3 yrs),E-Commerce,"Hadoop, AWS, Power BI, R, Excel",Hybrid,42,5.7
+Senior Data Analyst,Paytm,Gurgaon,Mid (3-5 yrs),E-Commerce,"Excel, Spark, Power BI, Pandas, Storytelling",Hybrid,23,12.1
+Business Analyst,Byju's,Delhi,Fresher (0-1 yr),Logistics,"Python, Communication, Statistics, Azure, Google Analytics",No,28,4.4
+Business Analyst,Deloitte,Bangalore,Junior (1-3 yrs),Banking & Finance,"Python, SQL, Pandas",No,31,7.3
+Data Scientist,Nykaa,Ahmedabad,Fresher (0-1 yr),Banking & Finance,"Communication, SQL, Power BI",Hybrid,20,5.3
+Senior Data Analyst,MakeMyTrip,Ahmedabad,Fresher (0-1 yr),Banking & Finance,"Google Analytics, Python, Spark, Storytelling",Yes,15,3.7
+Junior Data Analyst,Paytm,Gurgaon,Mid (3-5 yrs),Banking & Finance,"Azure, Storytelling, Data Visualization, Hadoop, JIRA",Hybrid,2,10.5
+Business Analyst,IBM India,Gurgaon,Senior (5+ yrs),E-Commerce,"Data Visualization, Storytelling, Statistics, ETL, Spark",No,4,21.8
+Junior Data Analyst,Axis Bank,Bangalore,Junior (1-3 yrs),Retail,"Storytelling, SQL, ETL, Data Visualization, Power BI, Python",No,2,5.9
+Operations Analyst,IBM India,Bangalore,Fresher (0-1 yr),EdTech,"Spark, Tableau, Python, Power BI, Pandas, ETL",Yes,50,6.0
+Senior Data Analyst,Deloitte,Kolkata,Senior (5+ yrs),EdTech,"ETL, AWS, Azure, Google Analytics",Hybrid,13,24.3
+Junior Data Analyst,HDFC Bank,Kolkata,Senior (5+ yrs),Healthcare,"Machine Learning, Python, Data Visualization, Communication, ETL, Hadoop",No,35,29.8
+Data Analyst,Cognizant,Noida,Senior (5+ yrs),EdTech,"Data Visualization, AWS, Statistics",No,39,18.9
+Marketing Analyst,Flipkart,Bangalore,Junior (1-3 yrs),Retail,"Azure, Spark, Excel, ETL, Hadoop, AWS, Statistics",Hybrid,25,7.8
+Financial Analyst,Razorpay,Bangalore,Senior (5+ yrs),Retail,"Spark, NumPy, Machine Learning",Yes,44,30.7
+Product Analyst,Reliance Jio,Kolkata,Mid (3-5 yrs),Logistics,"Google Analytics, Communication, Storytelling, SQL",No,44,9.0
+Financial Analyst,Paytm,Pune,Fresher (0-1 yr),IT Services,"Azure, Excel, NumPy, AWS",Yes,48,3.6
+Data Scientist,Paytm,Kolkata,Senior (5+ yrs),IT Services,"AWS, Power BI, Azure, Statistics",Yes,2,17.9
+Data Analyst,Nykaa,Pune,Fresher (0-1 yr),Logistics,"Machine Learning, R, Excel, Power BI",Hybrid,36,4.9
+Business Analyst,Deloitte,Bangalore,Junior (1-3 yrs),Banking & Finance,"Python, R, Data Visualization, Spark, Pandas, Power BI",No,31,7.0
+Data Scientist,Nykaa,Kolkata,Fresher (0-1 yr),Healthcare,"Azure, Power BI, Tableau, Storytelling, Excel",Hybrid,4,3.7
+Data Scientist,Swiggy,Noida,Senior (5+ yrs),E-Commerce,"Statistics, Communication, Excel, Data Visualization, Spark",No,25,25.0
+Financial Analyst,ICICI Bank,Hyderabad,Junior (1-3 yrs),Logistics,"JIRA, Hadoop, Statistics, Storytelling, Pandas, SQL",No,50,6.9
+Senior Data Analyst,ICICI Bank,Mumbai,Junior (1-3 yrs),EdTech,"Excel, Power BI, Storytelling, Data Visualization, Machine Learning",Hybrid,25,7.3
+Business Analyst,Zomato,Mumbai,Junior (1-3 yrs),EdTech,"Communication, ETL, Tableau",Hybrid,45,6.2
+Data Scientist,Accenture,Kolkata,Junior (1-3 yrs),E-Commerce,"Spark, Communication, Python, NumPy, SQL",Hybrid,9,9.6
+Product Analyst,Cognizant,Hyderabad,Junior (1-3 yrs),IT Services,"JIRA, Machine Learning, Spark, Hadoop, Data Visualization, Storytelling, R",No,28,6.9
+Business Analyst,Byju's,Chennai,Fresher (0-1 yr),Logistics,"Google Analytics, Communication, Statistics, Power BI",No,45,4.1
+Marketing Analyst,Tech Mahindra,Chennai,Senior (5+ yrs),Banking & Finance,"Python, JIRA, AWS, Data Visualization, Tableau, Hadoop",Yes,28,33.8
+Senior Data Analyst,Capgemini,Ahmedabad,Fresher (0-1 yr),Healthcare,"Statistics, Azure, AWS, Tableau, NumPy",Yes,36,4.4
+Operations Analyst,Infosys,Kolkata,Senior (5+ yrs),Retail,"SQL, Data Visualization, NumPy, Google Analytics",Yes,9,22.2
+Business Analyst,Ola,Pune,Junior (1-3 yrs),IT Services,"Pandas, Communication, Azure",No,8,6.4
+Junior Data Analyst,HDFC Bank,Delhi,Junior (1-3 yrs),Healthcare,"Azure, NumPy, Spark, SQL",No,29,8.4
+Data Scientist,Flipkart,Pune,Mid (3-5 yrs),Banking & Finance,"Tableau, Machine Learning, Statistics, SQL, R",Yes,8,16.9
+Junior Data Analyst,Axis Bank,Noida,Mid (3-5 yrs),EdTech,"Spark, NumPy, R, Python, Storytelling, JIRA",No,40,14.4
+Senior Data Analyst,HCL Technologies,Mumbai,Fresher (0-1 yr),Logistics,"Azure, ETL, Spark, JIRA, Excel, Pandas",Yes,24,4.9
+Data Analyst,PhonePe,Delhi,Fresher (0-1 yr),Banking & Finance,"NumPy, Machine Learning, JIRA, Spark, Power BI",Yes,23,4.2
+Junior Data Analyst,ICICI Bank,Noida,Senior (5+ yrs),IT Services,"Data Visualization, Communication, SQL, NumPy",Yes,13,28.7
+Data Scientist,HCL Technologies,Gurgaon,Senior (5+ yrs),EdTech,"R, Communication, Tableau, AWS, Azure, JIRA",Hybrid,22,34.4
+Product Analyst,Deloitte,Ahmedabad,Mid (3-5 yrs),Retail,"Machine Learning, Storytelling, Communication, Python",No,28,9.2
+Product Analyst,Wipro,Chennai,Mid (3-5 yrs),Retail,"Communication, Power BI, Tableau, Spark, Hadoop",No,4,17.0
+Data Scientist,Nykaa,Chennai,Senior (5+ yrs),Banking & Finance,"SQL, Power BI, ETL, Azure",Yes,16,19.4
+Financial Analyst,Accenture,Pune,Fresher (0-1 yr),EdTech,"SQL, Power BI, Google Analytics, Data Visualization",No,15,3.8
+Senior Data Analyst,Capgemini,Mumbai,Senior (5+ yrs),Retail,"Hadoop, Tableau, Spark, Statistics, SQL, Azure, Power BI",Yes,6,22.9
+Financial Analyst,Paytm,Bangalore,Fresher (0-1 yr),EdTech,"Azure, NumPy, R, Spark, Excel, Google Analytics",Yes,38,4.8
+Data Scientist,ICICI Bank,Mumbai,Senior (5+ yrs),Healthcare,"Spark, Pandas, AWS, ETL, Python, SQL",No,1,16.0
+Marketing Analyst,Tech Mahindra,Noida,Junior (1-3 yrs),Healthcare,"Excel, Power BI, Azure",Hybrid,15,8.0
+Data Scientist,Zomato,Noida,Junior (1-3 yrs),IT Services,"Statistics, Python, Azure, Pandas, Power BI, Spark, NumPy",Yes,27,7.0
+Operations Analyst,Wipro,Noida,Fresher (0-1 yr),Banking & Finance,"Spark, Azure, Hadoop, NumPy",Hybrid,48,3.3
+Operations Analyst,IBM India,Kolkata,Fresher (0-1 yr),Logistics,"Tableau, Power BI, Data Visualization, Excel, R, Machine Learning, Hadoop",No,49,3.8
+Financial Analyst,Paytm,Gurgaon,Fresher (0-1 yr),E-Commerce,"Spark, JIRA, Communication",Yes,35,4.7
+Financial Analyst,Flipkart,Bangalore,Mid (3-5 yrs),Banking & Finance,"Azure, Excel, Google Analytics, Power BI, Machine Learning, Data Visualization, SQL",No,37,9.4
+Senior Data Analyst,TCS,Bangalore,Mid (3-5 yrs),EdTech,"Storytelling, R, Python, AWS",Hybrid,3,11.7
+Product Analyst,Zomato,Hyderabad,Senior (5+ yrs),IT Services,"Power BI, SQL, Tableau, Machine Learning, R",No,1,17.8
+Data Analyst,Infosys,Mumbai,Mid (3-5 yrs),IT Services,"JIRA, Pandas, SQL",Yes,47,12.5
+Marketing Analyst,Swiggy,Gurgaon,Senior (5+ yrs),E-Commerce,"Power BI, Google Analytics, NumPy",Hybrid,16,19.4
+BI Analyst,ICICI Bank,Noida,Senior (5+ yrs),Retail,"JIRA, R, Hadoop, Python, Statistics",Yes,4,18.9
+Product Analyst,Flipkart,Delhi,Senior (5+ yrs),EdTech,"SQL, Google Analytics, NumPy, AWS, Tableau",No,5,21.9
+Data Scientist,IBM India,Ahmedabad,Fresher (0-1 yr),EdTech,"Azure, Data Visualization, Google Analytics, ETL, Machine Learning, JIRA, SQL",No,4,5.4
+Data Analyst,Swiggy,Mumbai,Junior (1-3 yrs),IT Services,"Statistics, SQL, Machine Learning",Hybrid,9,7.4
+Senior Data Analyst,Wipro,Kolkata,Mid (3-5 yrs),Logistics,"NumPy, Machine Learning, Tableau, Communication",Yes,29,11.3
+Business Analyst,Flipkart,Bangalore,Senior (5+ yrs),IT Services,"ETL, Pandas, Tableau, Hadoop, Excel, Communication, JIRA",Hybrid,12,34.1
+Product Analyst,IBM India,Chennai,Junior (1-3 yrs),E-Commerce,"Spark, R, Storytelling, AWS, Excel",Yes,19,5.9
+Product Analyst,TCS,Chennai,Senior (5+ yrs),Logistics,"Hadoop, Tableau, JIRA, Machine Learning, Excel",Yes,3,23.6
+Data Analyst,Amazon India,Ahmedabad,Fresher (0-1 yr),Logistics,"Machine Learning, ETL, Google Analytics, R, Hadoop",Hybrid,21,4.8
+Data Scientist,HCL Technologies,Gurgaon,Senior (5+ yrs),Retail,"Data Visualization, Hadoop, Spark, Python",No,23,18.0
+Product Analyst,PhonePe,Pune,Mid (3-5 yrs),E-Commerce,"Statistics, Excel, Pandas, Power BI, Google Analytics, Data Visualization, JIRA",Hybrid,39,16.3
+Data Analyst,Ola,Bangalore,Junior (1-3 yrs),Retail,"Excel, Data Visualization, Storytelling, ETL, Communication, Spark",Hybrid,42,6.7
+Junior Data Analyst,Amazon India,Mumbai,Fresher (0-1 yr),Logistics,"Tableau, Statistics, Pandas, Python, Power BI",Hybrid,16,5.6
+Financial Analyst,Tech Mahindra,Pune,Senior (5+ yrs),Healthcare,"Statistics, Spark, Power BI, JIRA, R, Pandas",Yes,19,28.5
+Operations Analyst,Tech Mahindra,Kolkata,Mid (3-5 yrs),Retail,"Communication, Azure, Power BI, Google Analytics, ETL",Hybrid,9,12.6
+Financial Analyst,Infosys,Ahmedabad,Mid (3-5 yrs),IT Services,"NumPy, JIRA, Pandas, Power BI, SQL, Excel, R",Hybrid,39,16.3
+Data Scientist,Deloitte,Bangalore,Fresher (0-1 yr),E-Commerce,"R, ETL, JIRA, Spark, Azure, NumPy",No,26,3.6
+Junior Data Analyst,HDFC Bank,Hyderabad,Mid (3-5 yrs),EdTech,"Pandas, Python, Google Analytics, Tableau",Hybrid,31,10.2
+Product Analyst,PhonePe,Delhi,Mid (3-5 yrs),Retail,"Tableau, Spark, Pandas, SQL",No,43,13.6
+Marketing Analyst,Tech Mahindra,Bangalore,Mid (3-5 yrs),Logistics,"Statistics, Hadoop, AWS, R, JIRA",No,8,15.2
+Financial Analyst,Nykaa,Chennai,Mid (3-5 yrs),Logistics,"AWS, Google Analytics, NumPy, Pandas, Hadoop",No,43,9.1
+Senior Data Analyst,PhonePe,Ahmedabad,Senior (5+ yrs),Retail,"Statistics, NumPy, Excel, Communication, Hadoop, Spark, R",Yes,5,28.4
+Financial Analyst,HDFC Bank,Hyderabad,Fresher (0-1 yr),Healthcare,"Excel, Storytelling, Statistics",Yes,5,5.3
+BI Analyst,Paytm,Noida,Junior (1-3 yrs),Logistics,"R, Communication, SQL",Yes,17,7.1
+Marketing Analyst,Byju's,Mumbai,Junior (1-3 yrs),Retail,"NumPy, JIRA, Azure",No,35,5.3
+BI Analyst,TCS,Pune,Mid (3-5 yrs),IT Services,"Hadoop, Google Analytics, Tableau",No,14,12.8
+BI Analyst,Wipro,Hyderabad,Senior (5+ yrs),Logistics,"Azure, Google Analytics, JIRA, Power BI, Spark, Python",Yes,32,30.1
+Senior Data Analyst,TCS,Ahmedabad,Mid (3-5 yrs),Logistics,"Machine Learning, Python, Hadoop, ETL, Statistics, Google Analytics, Data Visualization",No,46,10.0
+Junior Data Analyst,Capgemini,Chennai,Mid (3-5 yrs),E-Commerce,"Storytelling, SQL, AWS, R, Statistics, Excel, Communication",No,48,16.3
+BI Analyst,Cognizant,Ahmedabad,Senior (5+ yrs),IT Services,"Tableau, Google Analytics, ETL, SQL, Hadoop",Yes,23,33.3
+Marketing Analyst,Tech Mahindra,Noida,Fresher (0-1 yr),Healthcare,"Spark, R, ETL, Power BI, Data Visualization, AWS",Yes,15,4.8
+Financial Analyst,Axis Bank,Kolkata,Junior (1-3 yrs),Logistics,"JIRA, Power BI, NumPy, Storytelling",No,29,8.9
+Data Scientist,MakeMyTrip,Delhi,Senior (5+ yrs),Banking & Finance,"NumPy, Pandas, Machine Learning, Python, Spark, Power BI",Yes,46,29.5
+Marketing Analyst,Byju's,Noida,Junior (1-3 yrs),IT Services,"Google Analytics, SQL, AWS, Azure, Communication",Hybrid,20,9.2
+Operations Analyst,ICICI Bank,Hyderabad,Senior (5+ yrs),IT Services,"Python, AWS, Data Visualization, NumPy, ETL",No,24,34.5
+Data Analyst,Zomato,Mumbai,Senior (5+ yrs),IT Services,"Python, ETL, R",Hybrid,50,18.1
+Financial Analyst,HCL Technologies,Kolkata,Mid (3-5 yrs),IT Services,"ETL, Python, Power BI, Hadoop, Azure, JIRA",No,36,10.6
+Senior Data Analyst,Nykaa,Delhi,Fresher (0-1 yr),E-Commerce,"Google Analytics, Storytelling, Tableau",Yes,19,4.5
+BI Analyst,Deloitte,Bangalore,Junior (1-3 yrs),Retail,"Power BI, Azure, Python, Tableau, Pandas, Storytelling",Hybrid,42,8.8
+Data Scientist,IBM India,Mumbai,Fresher (0-1 yr),Banking & Finance,"Spark, ETL, NumPy, Communication, Hadoop, AWS",Yes,16,6.0
+BI Analyst,Deloitte,Noida,Mid (3-5 yrs),EdTech,"JIRA, Pandas, Power BI, AWS",No,34,9.7
+Senior Data Analyst,HCL Technologies,Chennai,Senior (5+ yrs),IT Services,"R, Tableau, ETL, Hadoop, Python, Storytelling",Yes,18,16.1
+Marketing Analyst,Infosys,Mumbai,Junior (1-3 yrs),EdTech,"Power BI, Machine Learning, NumPy, SQL",Hybrid,21,9.7
+Operations Analyst,IBM India,Delhi,Fresher (0-1 yr),Retail,"Spark, Hadoop, Data Visualization, SQL",Hybrid,45,5.5
+Data Analyst,Zomato,Ahmedabad,Junior (1-3 yrs),E-Commerce,"Machine Learning, Azure, Pandas, Power BI",Yes,35,6.3
+Operations Analyst,Ola,Ahmedabad,Junior (1-3 yrs),Banking & Finance,"Azure, JIRA, Storytelling, Tableau, Data Visualization, Spark",No,33,7.6
+Financial Analyst,Byju's,Ahmedabad,Junior (1-3 yrs),Healthcare,"Google Analytics, Spark, Tableau, Power BI, Storytelling, Communication",No,7,8.1
+Marketing Analyst,Paytm,Noida,Fresher (0-1 yr),Healthcare,"Tableau, Storytelling, ETL",Yes,4,6.1
+Data Analyst,Wipro,Delhi,Junior (1-3 yrs),Healthcare,"Python, Statistics, SQL, Data Visualization, Hadoop, NumPy, ETL",No,23,7.2
+Business Analyst,HCL Technologies,Bangalore,Fresher (0-1 yr),Logistics,"Hadoop, Azure, NumPy",Yes,27,4.6
+Operations Analyst,HDFC Bank,Pune,Senior (5+ yrs),Healthcare,"Azure, Excel, Hadoop, Statistics, Tableau",Hybrid,46,16.8
+BI Analyst,Byju's,Gurgaon,Fresher (0-1 yr),Healthcare,"R, Statistics, Pandas, Power BI, JIRA, ETL, Google Analytics",Hybrid,40,6.0
+Product Analyst,Axis Bank,Gurgaon,Mid (3-5 yrs),Banking & Finance,"Machine Learning, Azure, Power BI, Google Analytics, R, JIRA",Yes,32,13.1
+Financial Analyst,TCS,Chennai,Junior (1-3 yrs),IT Services,"Tableau, Statistics, Power BI, Storytelling, Spark, Python, Google Analytics",No,18,5.3
+Financial Analyst,Ola,Delhi,Mid (3-5 yrs),Healthcare,"Tableau, Hadoop, Python, Machine Learning",Hybrid,6,14.4
+Data Analyst,ICICI Bank,Kolkata,Mid (3-5 yrs),Logistics,"SQL, Spark, Hadoop",Yes,14,12.3
+Business Analyst,Reliance Jio,Noida,Senior (5+ yrs),IT Services,"NumPy, Statistics, Communication, Data Visualization, Hadoop, JIRA, Python",Yes,9,24.1
+Data Scientist,IBM India,Noida,Senior (5+ yrs),EdTech,"Hadoop, SQL, NumPy, Power BI, Pandas, R, Tableau",No,34,28.8
+Operations Analyst,PhonePe,Hyderabad,Fresher (0-1 yr),IT Services,"Hadoop, Statistics, Data Visualization, SQL, R",Yes,15,5.7
+Junior Data Analyst,Tech Mahindra,Ahmedabad,Fresher (0-1 yr),Logistics,"Python, SQL, Data Visualization",No,20,3.1
+Data Scientist,Deloitte,Noida,Junior (1-3 yrs),Logistics,"NumPy, Azure, Pandas, Power BI",Hybrid,48,6.3
+Financial Analyst,Zomato,Mumbai,Mid (3-5 yrs),EdTech,"R, Pandas, Azure, ETL, Data Visualization, Tableau",No,36,11.6
+Financial Analyst,TCS,Ahmedabad,Senior (5+ yrs),IT Services,"Power BI, Python, JIRA",No,14,23.9
+Senior Data Analyst,Byju's,Pune,Senior (5+ yrs),Retail,"Data Visualization, ETL, Communication, Google Analytics",No,8,24.5
+Data Analyst,Flipkart,Chennai,Junior (1-3 yrs),Logistics,"ETL, Statistics, Pandas, Machine Learning, Spark, SQL, AWS",No,24,6.5
+Product Analyst,IBM India,Mumbai,Senior (5+ yrs),EdTech,"Storytelling, Power BI, SQL, Machine Learning",No,47,16.7
+Business Analyst,Reliance Jio,Mumbai,Mid (3-5 yrs),IT Services,"AWS, Power BI, Excel, Data Visualization",Yes,10,10.0
+Junior Data Analyst,Zomato,Pune,Mid (3-5 yrs),Logistics,"Azure, Machine Learning, JIRA, Tableau, SQL",Hybrid,3,15.6
+Data Scientist,Accenture,Hyderabad,Junior (1-3 yrs),Retail,"Machine Learning, Hadoop, JIRA, Pandas",No,16,7.7
+Operations Analyst,Razorpay,Noida,Mid (3-5 yrs),IT Services,"ETL, Storytelling, AWS, Power BI, Hadoop, SQL, Statistics",No,45,12.6
+Data Analyst,Razorpay,Hyderabad,Fresher (0-1 yr),Banking & Finance,"Google Analytics, Storytelling, Python, R, Pandas, ETL",Hybrid,29,3.6
+Operations Analyst,Wipro,Noida,Mid (3-5 yrs),EdTech,"NumPy, SQL, Communication, Machine Learning",Yes,42,13.8
+Marketing Analyst,ICICI Bank,Delhi,Fresher (0-1 yr),IT Services,"Azure, JIRA, Google Analytics, Excel, R, Statistics",No,49,3.4
+Senior Data Analyst,Flipkart,Delhi,Senior (5+ yrs),Banking & Finance,"Spark, JIRA, Storytelling, Communication, Pandas, Power BI, Excel",No,30,18.7
+Business Analyst,Wipro,Mumbai,Fresher (0-1 yr),Retail,"R, Communication, Machine Learning",Hybrid,8,4.7
+Senior Data Analyst,ICICI Bank,Mumbai,Junior (1-3 yrs),Logistics,"Python, Google Analytics, AWS, Communication, Pandas, Tableau, Hadoop",No,2,9.5
+Financial Analyst,Axis Bank,Bangalore,Junior (1-3 yrs),Banking & Finance,"NumPy, Pandas, JIRA, Power BI",No,32,6.7
+Senior Data Analyst,ICICI Bank,Pune,Junior (1-3 yrs),EdTech,"Statistics, SQL, JIRA, Storytelling",Hybrid,3,7.3
+Junior Data Analyst,ICICI Bank,Gurgaon,Junior (1-3 yrs),IT Services,"SQL, Tableau, Pandas, Communication, JIRA",Yes,18,8.1
+Financial Analyst,Axis Bank,Delhi,Junior (1-3 yrs),Banking & Finance,"Statistics, Machine Learning, JIRA",No,18,9.6
+Data Scientist,TCS,Pune,Mid (3-5 yrs),Retail,"Python, ETL, Communication",Hybrid,38,17.1
+Operations Analyst,Swiggy,Mumbai,Senior (5+ yrs),Healthcare,"Excel, JIRA, Pandas, Tableau, Hadoop",Yes,25,33.7
+Data Scientist,HDFC Bank,Hyderabad,Fresher (0-1 yr),Healthcare,"NumPy, Data Visualization, SQL, Python, ETL, Power BI, Azure",Yes,20,5.9
+Marketing Analyst,Infosys,Mumbai,Fresher (0-1 yr),Healthcare,"R, Pandas, Python, Power BI, Spark",Yes,6,5.0
+Financial Analyst,Ola,Hyderabad,Senior (5+ yrs),Retail,"Storytelling, JIRA, Machine Learning, AWS, Statistics",Yes,4,16.8
+Financial Analyst,Swiggy,Noida,Junior (1-3 yrs),Logistics,"Pandas, Machine Learning, Spark, Tableau, AWS",Yes,18,6.6
+Business Analyst,Flipkart,Gurgaon,Junior (1-3 yrs),IT Services,"Hadoop, ETL, Tableau, Azure",Yes,40,5.2
+Financial Analyst,Capgemini,Kolkata,Fresher (0-1 yr),Healthcare,"Azure, R, AWS",Yes,25,5.1
+Operations Analyst,MakeMyTrip,Kolkata,Junior (1-3 yrs),E-Commerce,"R, Machine Learning, Azure, Storytelling",No,32,8.6
+Junior Data Analyst,TCS,Kolkata,Mid (3-5 yrs),EdTech,"Python, NumPy, R, JIRA, Spark",Hybrid,2,16.3
+Marketing Analyst,Flipkart,Noida,Mid (3-5 yrs),E-Commerce,"Machine Learning, Excel, Tableau, Communication, Hadoop, Power BI, Statistics",Hybrid,25,9.9
+Business Analyst,Wipro,Mumbai,Mid (3-5 yrs),E-Commerce,"Power BI, Google Analytics, Tableau, Python, Storytelling, Machine Learning",No,25,13.6
+Product Analyst,Flipkart,Bangalore,Senior (5+ yrs),Logistics,"Python, Power BI, Storytelling, SQL, Tableau, Communication",Yes,29,29.8
+Operations Analyst,IBM India,Mumbai,Senior (5+ yrs),Healthcare,"Pandas, Tableau, Python",Yes,3,22.4
+Junior Data Analyst,MakeMyTrip,Delhi,Mid (3-5 yrs),Retail,"Power BI, JIRA, Data Visualization",Yes,15,14.7
+Senior Data Analyst,Razorpay,Kolkata,Senior (5+ yrs),Retail,"Machine Learning, Tableau, Azure",Yes,14,21.7
+Data Scientist,Ola,Mumbai,Mid (3-5 yrs),Retail,"AWS, R, NumPy, Data Visualization, Azure, Excel, Power BI",Hybrid,25,12.6
+Marketing Analyst,HCL Technologies,Ahmedabad,Junior (1-3 yrs),EdTech,"JIRA, Pandas, Storytelling",No,12,5.9
+BI Analyst,Nykaa,Ahmedabad,Senior (5+ yrs),Banking & Finance,"Python, SQL, Power BI",Hybrid,43,30.2
+Operations Analyst,Reliance Jio,Delhi,Mid (3-5 yrs),Logistics,"NumPy, Power BI, Google Analytics, Hadoop, Tableau, Python, Communication",Yes,28,15.5
+Data Scientist,MakeMyTrip,Noida,Senior (5+ yrs),E-Commerce,"Statistics, Hadoop, Spark",Hybrid,35,30.1
+Data Analyst,Nykaa,Bangalore,Fresher (0-1 yr),Banking & Finance,"ETL, NumPy, Statistics, Spark",Yes,4,3.3
